@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             WME Mapraid Overlays
 // @namespace        https://greasyfork.org/en/users/166843-wazedev
-// @version          2020.5.22.01
+// @version          2023.03.15.01
 // @description      Mapraid overlays
 // @author           JustinS83
 // @include          https://www.waze.com/editor*
@@ -118,7 +118,7 @@
             '</div>'
         ].join(' '));
 
-        new WazeWrap.Interface.Tab('MRO', $section.html(), init2);
+        WazeWrap.Interface.Tab('MRO', $section.html(), init2, 'MRO');
     }
 
     async function getAvailableOverlays(){
