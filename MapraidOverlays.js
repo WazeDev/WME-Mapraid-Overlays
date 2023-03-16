@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             WME Mapraid Overlays
 // @namespace        https://greasyfork.org/en/users/166843-wazedev
-// @version          2023.03.15.01
+// @version          2023.03.16.01
 // @description      Mapraid overlays
 // @author           JustinS83
 // @include          https://www.waze.com/editor*
@@ -9,7 +9,9 @@
 // @include          https://beta.waze.com/editor*
 // @include          https://beta.waze.com/*/editor*
 // @exclude          https://www.waze.com/*user/editor*
-// @grant            none
+// @grant            GM_xmlhttpRequest
+// @connect          api.github.com
+// @connect          raw.githubusercontent.com
 // @require          https://greasyfork.org/scripts/24851-wazewrap/code/WazeWrap.js
 // @contributionURL  https://github.com/WazeDev/Thank-The-Authors
 // ==/UserScript==
@@ -80,7 +82,30 @@
     }
 
     async function getKML(url){
-        return await $.get(url);
+        return await wrapGMXMLHTTP(url); //$.get(url);
+    }
+
+    async function wrapGMXMLHTTP(url){
+        return new Promise((resolve, reject) => {
+            GM_xmlhttpRequest({
+                url,
+                method: 'GET',
+                onload(res) {
+                    if (res.status < 400) {
+                        resolve(res.responseText);
+                    } else {
+                        console.log("error");
+                        console.log(res.status);
+                        // handle errors here
+                    }
+                },
+                onerror(res) {
+                    // handle errors here
+                    console.log("Error:");
+                    console.log(res.text);
+                }
+            });
+        });
     }
 
     function GetFeaturesFromKMLString(strKML) {
@@ -124,8 +149,9 @@
     async function getAvailableOverlays(){
         $('#mroOverlaySelect').innerHTML = "";
         countryAbbr = W.model.countries.top.abbr;
-        let KMLinfoArr = await $.get(`https://api.github.com/repos/WazeDev/WME-Mapraid-Overlays/contents/KMLs/${countryAbbr}`);
+        let KMLinfoArr = $.parseJSON(await wrapGMXMLHTTP(`https://api.github.com/repos/WazeDev/WME-Mapraid-Overlays/contents/KMLs/${countryAbbr}`));
         let overlaysSelect = $('<div>');
+
         overlaysSelect.html([
             '<option selected disabled hidden style="display: none" value=""></option>',
             `${KMLinfoArr.map(function(obj){
@@ -245,7 +271,7 @@
                     let selectedArea = $(`#${raidArea.replace(/\s/g, "_")}_Areas`).val();
                     if(_layer.features[i].attributes.name === selectedArea){
                         let centroid = _layer.features[i].geometry.getCentroid();
-                        W.map.setCenter([centroid.x, centroid.y], W.map.zoom)
+                        W.map.setCenter(new OL.LonLat(centroid.x, centroid.y), W.map.zoom)
                         break;
                     }
                 }
