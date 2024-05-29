@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             WME Mapraid Overlays
 // @namespace        https://greasyfork.org/en/users/166843-wazedev
-// @version          2023.03.16.01
+// @version          2024.05.29.01
 // @description      Mapraid overlays
 // @author           JustinS83
 // @include          https://www.waze.com/editor*
@@ -43,7 +43,7 @@
             W.map &&
             W.model &&
             W.loginManager.user &&
-            W.model.countries.top &&
+            W.model.getTopCountry() &&
             $ && WazeWrap.Ready)
             init();
         else if (tries < 1000)
@@ -148,7 +148,7 @@
 
     async function getAvailableOverlays(){
         $('#mroOverlaySelect').innerHTML = "";
-        countryAbbr = W.model.countries.top.abbr;
+        countryAbbr = W.model.getTopCountry().attributes.abbr;
         let KMLinfoArr = $.parseJSON(await wrapGMXMLHTTP(`https://api.github.com/repos/WazeDev/WME-Mapraid-Overlays/contents/KMLs/${countryAbbr}`));
         let overlaysSelect = $('<div>');
 
