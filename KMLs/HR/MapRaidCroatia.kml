@@ -44,7 +44,7 @@
     <Folder>
       <name>Folder 1</name>
       <Placemark>
-        <name>Region  1</name>
+        <name>Region 1</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -437,7 +437,7 @@
     <Folder>
       <name>Folder 2</name>
       <Placemark>
-        <name>Region  2</name>
+        <name>Region 2</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -1842,7 +1842,7 @@
     <Folder>
       <name>Folder 4</name>
       <Placemark>
-        <name>Region  4</name>
+        <name>Region 4</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -2471,7 +2471,7 @@
     <Folder>
       <name>Folder 5</name>
       <Placemark>
-        <name>Region  5</name>
+        <name>Region 5</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -2696,7 +2696,7 @@
     <Folder>
       <name>Folder 6</name>
       <Placemark>
-        <name>Region  6</name>
+        <name>Region 6</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -2904,7 +2904,7 @@
     <Folder>
       <name>Folder 7</name>
       <Placemark>
-        <name>Region  7</name>
+        <name>Region 7</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -3206,7 +3206,7 @@
     <Folder>
       <name>Folder 3</name>
       <Placemark>
-        <name>Region  3</name>
+        <name>Region 3</name>
         <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
