@@ -404,8 +404,8 @@
       <Placemark>
         <name>Region 2</name>
         <Style>
-        <PolyStyle><color>4b007cf5</color></PolyStyle>
-        <LineStyle><color>5f007cf5</color><width>5</width></LineStyle>
+        <PolyStyle><color>4b25a8f9</color></PolyStyle>
+        <LineStyle><color>5f25a8f9</color><width>5</width></LineStyle>
         </Style>
         <Polygon>
           <outerBoundaryIs>
