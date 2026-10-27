@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>Chicago Map Raid areas</name>
+  <Placemark>
+	<name>0111</name>
+	<description>name: 0111&lt;br&gt;district: 01&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.6244,41.883231,0 -87.624372,41.888857,0 -87.625094,41.888905,0 -87.627617,41.887512,0 -87.631021,41.887443,0 -87.630907,41.883211,0 -87.6244,41.883231,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0112</name>
+	<description>name: 0112&lt;br&gt;district: 01&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.6244,41.883231,0 -87.630907,41.883211,0 -87.63082,41.879414,0 -87.624352,41.879554,0 -87.6244,41.883231,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0113</name>
+	<description>name: 0113&lt;br&gt;district: 01&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.624352,41.879554,0 -87.63082,41.879414,0 -87.63071,41.87561,0 -87.62426,41.875725,0 -87.624352,41.879554,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0114</name>
+	<description>name: 0114&lt;br&gt;district: 01&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.624372,41.888857,0 -87.624132,41.867457,0 -87.618718,41.867463,0 -87.617113,41.869375,0 -87.61622,41.869363,0 -87.616478,41.880557,0 -87.615722,41.880567,0 -87.615754,41.881417,0 -87.616498,41.881414,0 -87.616361,41.882079,0 -87.613506,41.88286,0 -87.612736,41.884059,0 -87.609986,41.88408,0 -87.609846,41.88797,0 -87.602458,41.888344,0 -87.611153,41.887951,0 -87.610038,41.887394,0 -87.610214,41.884149,0 -87.612729,41.884131,0 -87.612731,41.887944,0 -87.613534,41.88794,0 -87.613763,41.888407,0 -87.624372,41.888857,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0121</name>
+	<description>name: 0121&lt;br&gt;district: 01&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.637733,41.885722,0 -87.64538,41.885691,0 -87.645126,41.880112,0 -87.645488,41.878218,0 -87.644775,41.875435,0 -87.636643,41.875562,0 -87.637659,41.877308,0 -87.638278,41.88037,0 -87.637733,41.885722,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0122</name>
+	<description>name: 0122&lt;br&gt;district: 01&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.631021,41.887443,0 -87.635797,41.887428,0 -87.637653,41.88607,0 -87.638278,41.88037,0 -87.637659,41.877308,0 -87.636643,41.875562,0 -87.63071,41.87561,0 -87.631021,41.887443,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0123</name>
+	<description>name: 0123&lt;br&gt;district: 01&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.62426,41.875725,0 -87.636643,41.875562,0 -87.635869,41.873971,0 -87.634734,41.867315,0 -87.624132,41.867457,0 -87.62426,41.875725,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0124</name>
+	<description>name: 0124&lt;br&gt;district: 01&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.636643,41.875562,0 -87.644775,41.875435,0 -87.64386,41.859958,0 -87.634515,41.860133,0 -87.63507,41.869939,0 -87.635869,41.873971,0 -87.636643,41.875562,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0131</name>
+	<description>name: 0131&lt;br&gt;district: 01&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.624132,41.867457,0 -87.634734,41.867315,0 -87.634515,41.860133,0 -87.630896,41.860131,0 -87.62998,41.847068,0 -87.627791,41.846938,0 -87.623677,41.84784,0 -87.624132,41.867457,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0132</name>
+	<description>name: 0132&lt;br&gt;district: 01&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.617113,41.869375,0 -87.618718,41.867463,0 -87.624132,41.867457,0 -87.623677,41.84784,0 -87.609289,41.847583,0 -87.609272,41.851062,0 -87.610717,41.853078,0 -87.611162,41.854864,0 -87.612628,41.855996,0 -87.61304,41.856962,0 -87.612835,41.858187,0 -87.612177,41.858621,0 -87.61215,41.860346,0 -87.613424,41.863462,0 -87.612669,41.865843,0 -87.61048,41.865865,0 -87.609605,41.863405,0 -87.610675,41.860651,0 -87.609335,41.856817,0 -87.609897,41.85377,0 -87.609004,41.853181,0 -87.606511,41.853359,0 -87.607072,41.859958,0 -87.605965,41.86008,0 -87.606021,41.862005,0 -87.606955,41.862374,0 -87.607579,41.864274,0 -87.60687,41.865181,0 -87.606045,41.864794,0 -87.605654,41.866607,0 -87.606759,41.867242,0 -87.607749,41.866859,0 -87.612688,41.866753,0 -87.612333,41.867633,0 -87.612773,41.868308,0 -87.615352,41.868304,0 -87.61622,41.869363,0 -87.617113,41.869375,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0133</name>
+	<description>name: 0133&lt;br&gt;district: 01&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.617398,41.847973,0 -87.623007,41.847893,0 -87.627791,41.846938,0 -87.62998,41.847068,0 -87.629723,41.838266,0 -87.606157,41.838588,0 -87.607211,41.839652,0 -87.608942,41.843237,0 -87.609149,41.844662,0 -87.60841,41.846141,0 -87.609289,41.847583,0 -87.612788,41.847421,0 -87.617398,41.847973,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0211</name>
+	<description>name: 0211&lt;br&gt;district: 02&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.606175,41.838571,0 -87.630339,41.838257,0 -87.630219,41.830959,0 -87.602769,41.831269,0 -87.603159,41.832764,0 -87.604839,41.833436,0 -87.605102,41.834453,0 -87.604635,41.834921,0 -87.605951,41.83652,0 -87.606175,41.838571,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0212</name>
+	<description>name: 0212&lt;br&gt;district: 02&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.602769,41.831269,0 -87.623257,41.831044,0 -87.623147,41.823756,0 -87.606916,41.82396,0 -87.598489,41.825413,0 -87.599087,41.826378,0 -87.600784,41.82712,0 -87.601693,41.828802,0 -87.601715,41.829838,0 -87.602769,41.831269,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0213</name>
+	<description>name: 0213&lt;br&gt;district: 02&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.623257,41.831044,0 -87.630219,41.830959,0 -87.629865,41.816439,0 -87.616792,41.816635,0 -87.616997,41.823834,0 -87.623147,41.823756,0 -87.623257,41.831044,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0214</name>
+	<description>name: 0214&lt;br&gt;district: 02&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.600282,41.825324,0 -87.604023,41.824169,0 -87.616997,41.823834,0 -87.616792,41.816635,0 -87.592304,41.816923,0 -87.592736,41.8183,0 -87.594538,41.819192,0 -87.59573,41.820434,0 -87.598359,41.824265,0 -87.598489,41.825413,0 -87.600282,41.825324,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0215</name>
+	<description>name: 0215&lt;br&gt;district: 02&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.617053,41.816632,0 -87.629865,41.816439,0 -87.629692,41.812132,0 -87.631219,41.80915,0 -87.616589,41.809384,0 -87.617053,41.816632,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0221</name>
+	<description>name: 0221&lt;br&gt;district: 02&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.604064,41.816846,0 -87.616792,41.816635,0 -87.616589,41.809384,0 -87.603897,41.809565,0 -87.604064,41.816846,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0222</name>
+	<description>name: 0222&lt;br&gt;district: 02&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.592304,41.816923,0 -87.604064,41.816846,0 -87.603784,41.802286,0 -87.580609,41.802563,0 -87.580115,41.803927,0 -87.581269,41.804311,0 -87.585158,41.807215,0 -87.586925,41.810107,0 -87.587347,41.811852,0 -87.588626,41.81219,0 -87.589827,41.813296,0 -87.592304,41.816923,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0223</name>
+	<description>name: 0223&lt;br&gt;district: 02&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.603897,41.809565,0 -87.616589,41.809384,0 -87.616111,41.802103,0 -87.603784,41.802286,0 -87.603897,41.809565,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0224</name>
+	<description>name: 0224&lt;br&gt;district: 02&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.61685,41.80938,0 -87.631219,41.80915,0 -87.630963,41.801824,0 -87.616111,41.802103,0 -87.61685,41.80938,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0225</name>
+	<description>name: 0225&lt;br&gt;district: 02&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.622649,41.802001,0 -87.630963,41.801824,0 -87.63063,41.790904,0 -87.622373,41.79107,0 -87.622649,41.802001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0231</name>
+	<description>name: 0231&lt;br&gt;district: 02&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.616111,41.802103,0 -87.622649,41.802001,0 -87.622373,41.79107,0 -87.615889,41.791172,0 -87.616111,41.802103,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0232</name>
+	<description>name: 0232&lt;br&gt;district: 02&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.615889,41.791172,0 -87.63063,41.790904,0 -87.630571,41.785431,0 -87.61576,41.785699,0 -87.615889,41.791172,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0233</name>
+	<description>name: 0233&lt;br&gt;district: 02&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.596707,41.802366,0 -87.616111,41.802103,0 -87.61576,41.785699,0 -87.606037,41.785874,0 -87.606215,41.794965,0 -87.596544,41.795066,0 -87.596707,41.802366,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0234</name>
+	<description>name: 0234&lt;br&gt;district: 02&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.580609,41.802563,0 -87.596707,41.802366,0 -87.596544,41.795066,0 -87.592308,41.795124,0 -87.591824,41.795508,0 -87.587549,41.795185,0 -87.575407,41.795469,0 -87.575164,41.79624,0 -87.575621,41.796869,0 -87.578109,41.796976,0 -87.580021,41.798441,0 -87.580913,41.800438,0 -87.580609,41.802563,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0235</name>
+	<description>name: 0235&lt;br&gt;district: 02&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.591695,41.795509,0 -87.592308,41.795124,0 -87.606215,41.794965,0 -87.606009,41.784058,0 -87.591436,41.784206,0 -87.591475,41.786096,0 -87.586595,41.786143,0 -87.586638,41.793384,0 -87.579491,41.793493,0 -87.578304,41.794729,0 -87.575533,41.795416,0 -87.587549,41.795185,0 -87.591695,41.795509,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0311</name>
+	<description>name: 0311&lt;br&gt;district: 03&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.61576,41.785699,0 -87.630571,41.785431,0 -87.630544,41.779981,0 -87.615622,41.780239,0 -87.61576,41.785699,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0312</name>
+	<description>name: 0312&lt;br&gt;district: 03&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.602889,41.780448,0 -87.621063,41.780048,0 -87.630544,41.779981,0 -87.629951,41.777943,0 -87.626549,41.774573,0 -87.622404,41.774632,0 -87.620318,41.774085,0 -87.619969,41.774383,0 -87.617943,41.772925,0 -87.614778,41.772979,0 -87.613045,41.773012,0 -87.613131,41.776648,0 -87.602806,41.77681,0 -87.602889,41.780448,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0313</name>
+	<description>name: 0313&lt;br&gt;district: 03&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.606037,41.785874,0 -87.61576,41.785699,0 -87.615622,41.780239,0 -87.601068,41.780468,0 -87.601148,41.784111,0 -87.606009,41.784058,0 -87.606037,41.785874,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0314</name>
+	<description>name: 0314&lt;br&gt;district: 03&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.586595,41.786143,0 -87.591475,41.786096,0 -87.591436,41.784206,0 -87.601148,41.784111,0 -87.601068,41.780468,0 -87.602889,41.780448,0 -87.602806,41.77681,0 -87.58633,41.77698,0 -87.586595,41.786143,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0321</name>
+	<description>name: 0321&lt;br&gt;district: 03&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.58633,41.77698,0 -87.613131,41.776648,0 -87.613045,41.773012,0 -87.61545,41.77297,0 -87.605587,41.765869,0 -87.590994,41.766015,0 -87.591169,41.773285,0 -87.586296,41.773339,0 -87.58633,41.77698,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0322</name>
+	<description>name: 0322&lt;br&gt;district: 03&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.620318,41.774085,0 -87.626549,41.774573,0 -87.625778,41.77271,0 -87.625514,41.765449,0 -87.605587,41.765869,0 -87.61545,41.77297,0 -87.617943,41.772925,0 -87.619969,41.774383,0 -87.620318,41.774085,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0323</name>
+	<description>name: 0323&lt;br&gt;district: 03&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.605587,41.765869,0 -87.625514,41.765449,0 -87.625369,41.758176,0 -87.59563,41.758696,0 -87.605587,41.765869,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0324</name>
+	<description>name: 0124&lt;br&gt;district: 03&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.57937,41.766046,0 -87.604529,41.765798,0 -87.605587,41.765869,0 -87.59563,41.758696,0 -87.594474,41.75869,0 -87.579203,41.758843,0 -87.57937,41.766046,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0331</name>
+	<description>name: 0331&lt;br&gt;district: 03&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.579491,41.793493,0 -87.586638,41.793384,0 -87.586296,41.773339,0 -87.576487,41.773456,0 -87.576298,41.766069,0 -87.566484,41.766318,0 -87.566811,41.773559,0 -87.566339,41.773709,0 -87.568813,41.776404,0 -87.572477,41.779307,0 -87.573259,41.779144,0 -87.573361,41.778306,0 -87.571773,41.776664,0 -87.571936,41.775878,0 -87.573367,41.775377,0 -87.575079,41.775931,0 -87.574606,41.776082,0 -87.575303,41.777408,0 -87.574661,41.77919,0 -87.572954,41.779824,0 -87.57308,41.780251,0 -87.569116,41.781358,0 -87.569156,41.781487,0 -87.572304,41.781835,0 -87.5761,41.783651,0 -87.577242,41.786484,0 -87.57715,41.788183,0 -87.577858,41.788295,0 -87.57632,41.78857,0 -87.578423,41.790102,0 -87.57975,41.792263,0 -87.579491,41.793493,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0332</name>
+	<description>name: 0323&lt;br&gt;district: 03&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.576487,41.773456,0 -87.591169,41.773285,0 -87.590994,41.766015,0 -87.576298,41.766069,0 -87.576487,41.773456,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0333</name>
+	<description>name: 0333&lt;br&gt;district: 03&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.56895,41.766145,0 -87.57937,41.766046,0 -87.579203,41.758843,0 -87.56881,41.758961,0 -87.56895,41.766145,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0334</name>
+	<description>name: 0334&lt;br&gt;district: 03&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.566811,41.773559,0 -87.566484,41.766318,0 -87.56895,41.766145,0 -87.56881,41.758961,0 -87.560271,41.759069,0 -87.554754,41.76169,0 -87.556079,41.761821,0 -87.557641,41.762846,0 -87.558456,41.764018,0 -87.559439,41.76408,0 -87.560514,41.76539,0 -87.560516,41.766171,0 -87.559392,41.766783,0 -87.559536,41.769179,0 -87.560527,41.768397,0 -87.562338,41.769001,0 -87.563276,41.770444,0 -87.563581,41.772026,0 -87.566811,41.773559,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0411</name>
+	<description>name: 0411&lt;br&gt;district: 04&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.584588,41.758783,0 -87.59563,41.758696,0 -87.595673,41.756992,0 -87.598697,41.744047,0 -87.584126,41.744224,0 -87.584588,41.758783,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0412</name>
+	<description>name: 0412&lt;br&gt;district: 04&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.566125,41.744461,0 -87.598697,41.744047,0 -87.601189,41.733042,0 -87.565914,41.733542,0 -87.566125,41.744461,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0413</name>
+	<description>name: 0413&lt;br&gt;district: 04&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.565914,41.733542,0 -87.601189,41.733042,0 -87.603823,41.72204,0 -87.565549,41.72259,0 -87.565914,41.733542,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0414</name>
+	<description>name: 0414&lt;br&gt;district: 04&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.566373,41.758988,0 -87.584588,41.758783,0 -87.584126,41.744224,0 -87.566125,41.744461,0 -87.566373,41.758988,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0421</name>
+	<description>name: 0421&lt;br&gt;district: 04&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.554754,41.76169,0 -87.560271,41.759069,0 -87.566373,41.758988,0 -87.566233,41.751728,0 -87.543344,41.752105,0 -87.544413,41.754132,0 -87.543961,41.755235,0 -87.540597,41.757269,0 -87.544365,41.760666,0 -87.546492,41.760646,0 -87.544417,41.760616,0 -87.543853,41.760112,0 -87.54659,41.758878,0 -87.548401,41.758692,0 -87.554033,41.760761,0 -87.554754,41.76169,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0422</name>
+	<description>name: 0422&lt;br&gt;district: 04&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.54049,41.751864,0 -87.566233,41.751728,0 -87.566149,41.746277,0 -87.530659,41.746546,0 -87.531105,41.748131,0 -87.53893,41.751315,0 -87.54049,41.751864,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0423</name>
+	<description>name: 0423&lt;br&gt;district: 04&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.552794,41.746457,0 -87.566149,41.746277,0 -87.565549,41.72259,0 -87.551076,41.722765,0 -87.551542,41.74254,0 -87.55177,41.743953,0 -87.552752,41.744549,0 -87.552794,41.746457,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0424</name>
+	<description>name: 0424&lt;br&gt;district: 04&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.530659,41.746546,0 -87.552794,41.746457,0 -87.552752,41.744549,0 -87.55177,41.743953,0 -87.551542,41.74254,0 -87.551076,41.722765,0 -87.543144,41.722862,0 -87.542252,41.726579,0 -87.541399,41.727586,0 -87.529251,41.733014,0 -87.528955,41.733768,0 -87.529857,41.740607,0 -87.53983,41.740497,0 -87.539855,41.741013,0 -87.524463,41.741386,0 -87.529879,41.741479,0 -87.530659,41.746546,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0431</name>
+	<description>name: 0431&lt;br&gt;district: 04&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.543144,41.722862,0 -87.585127,41.722339,0 -87.584628,41.71125,0 -87.585746,41.707774,0 -87.555004,41.708183,0 -87.554912,41.702767,0 -87.545905,41.702767,0 -87.545856,41.707333,0 -87.542753,41.710751,0 -87.54218,41.715643,0 -87.543178,41.718109,0 -87.542692,41.720816,0 -87.543144,41.722862,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0432</name>
+	<description>name: 0432&lt;br&gt;district: 04&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.524467,41.721898,0 -87.524734,41.731221,0 -87.529135,41.732087,0 -87.529495,41.732367,0 -87.529251,41.733014,0 -87.539414,41.728794,0 -87.541902,41.727136,0 -87.543177,41.723126,0 -87.542692,41.720816,0 -87.543178,41.718109,0 -87.54218,41.715643,0 -87.542674,41.71095,0 -87.545856,41.707333,0 -87.545943,41.702695,0 -87.548032,41.700928,0 -87.551699,41.699389,0 -87.5533,41.697217,0 -87.552989,41.695592,0 -87.524635,41.695422,0 -87.524191,41.708239,0 -87.524929,41.708705,0 -87.524862,41.709153,0 -87.525679,41.709085,0 -87.525261,41.709473,0 -87.525769,41.709157,0 -87.52622,41.709539,0 -87.52553,41.709937,0 -87.52414,41.70936,0 -87.52575,41.710411,0 -87.526648,41.709849,0 -87.528408,41.710803,0 -87.526433,41.712313,0 -87.527712,41.713422,0 -87.528704,41.715423,0 -87.526605,41.717236,0 -87.524468,41.717403,0 -87.525609,41.719436,0 -87.525485,41.720722,0 -87.525081,41.720848,0 -87.525408,41.72092,0 -87.524467,41.721898,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0433</name>
+	<description>name: 0433&lt;br&gt;district: 04&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.524635,41.695422,0 -87.552989,41.695592,0 -87.551947,41.692052,0 -87.55243,41.685098,0 -87.552026,41.681505,0 -87.552227,41.67699,0 -87.551572,41.675161,0 -87.552772,41.672996,0 -87.559256,41.669163,0 -87.559316,41.644643,0 -87.524979,41.644555,0 -87.524635,41.695422,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0434</name>
+	<description>name: 0434&lt;br&gt;district: 04&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.555004,41.708183,0 -87.585746,41.707774,0 -87.587495,41.705827,0 -87.586221,41.705881,0 -87.591018,41.702173,0 -87.594675,41.697915,0 -87.601296,41.683818,0 -87.601194,41.676645,0 -87.600404,41.674233,0 -87.580487,41.650424,0 -87.578878,41.64738,0 -87.578376,41.644688,0 -87.559316,41.644643,0 -87.559256,41.669163,0 -87.552772,41.672996,0 -87.551572,41.675161,0 -87.552227,41.67699,0 -87.552026,41.681505,0 -87.55243,41.685098,0 -87.551947,41.692052,0 -87.5533,41.697217,0 -87.551699,41.699389,0 -87.548032,41.700928,0 -87.545905,41.702767,0 -87.554912,41.702767,0 -87.555004,41.708183,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0511</name>
+	<description>name: 0511&lt;br&gt;district: 05&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.585127,41.722339,0 -87.633533,41.721592,0 -87.633133,41.707043,0 -87.585746,41.707774,0 -87.584628,41.71125,0 -87.58499,41.721352,0 -87.585127,41.722339,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0512</name>
+	<description>name: 0512&lt;br&gt;district: 05&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.585746,41.707774,0 -87.633133,41.707043,0 -87.632952,41.699754,0 -87.592759,41.700417,0 -87.587904,41.704913,0 -87.586221,41.705881,0 -87.587495,41.705827,0 -87.585746,41.707774,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0513</name>
+	<description>name: 0513&lt;br&gt;district: 05&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.592759,41.700417,0 -87.632952,41.699754,0 -87.632714,41.692471,0 -87.601006,41.692883,0 -87.597114,41.692226,0 -87.596084,41.695426,0 -87.592759,41.700417,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0522</name>
+	<description>name: 0522&lt;br&gt;district: 05&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.623104,41.692585,0 -87.632714,41.692471,0 -87.632481,41.685204,0 -87.634895,41.685174,0 -87.63463,41.676073,0 -87.622605,41.676201,0 -87.623104,41.692585,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0523</name>
+	<description>name: 0523&lt;br&gt;district: 05&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.622605,41.676201,0 -87.641848,41.675993,0 -87.641421,41.663245,0 -87.64718,41.663159,0 -87.647052,41.658297,0 -87.647704,41.657024,0 -87.641295,41.657521,0 -87.63304,41.657083,0 -87.629914,41.65818,0 -87.626111,41.660844,0 -87.622094,41.662161,0 -87.622605,41.676201,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0524</name>
+	<description>name: 0524&lt;br&gt;district: 05&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634895,41.685174,0 -87.661599,41.68482,0 -87.66115,41.670335,0 -87.641665,41.67054,0 -87.641848,41.675993,0 -87.63463,41.676073,0 -87.634895,41.685174,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0531</name>
+	<description>name: 0531&lt;br&gt;district: 05&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.602428,41.692871,0 -87.623104,41.692585,0 -87.62289,41.685322,0 -87.604575,41.685505,0 -87.602409,41.68615,0 -87.600414,41.686098,0 -87.597114,41.692226,0 -87.602428,41.692871,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0532</name>
+	<description>name: 0532&lt;br&gt;district: 05&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.600414,41.686098,0 -87.604575,41.685505,0 -87.62289,41.685322,0 -87.622094,41.662161,0 -87.619512,41.660787,0 -87.619656,41.659121,0 -87.601077,41.659184,0 -87.589,41.660392,0 -87.600621,41.674641,0 -87.601201,41.676722,0 -87.601391,41.683166,0 -87.600414,41.686098,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0533</name>
+	<description>name: 0533&lt;br&gt;district: 05&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.58928,41.660391,0 -87.601077,41.659184,0 -87.619656,41.659121,0 -87.622523,41.655728,0 -87.622807,41.653058,0 -87.621737,41.65141,0 -87.61723,41.650276,0 -87.617216,41.644584,0 -87.578376,41.644688,0 -87.578878,41.64738,0 -87.580487,41.650424,0 -87.58928,41.660391,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0611</name>
+	<description>name: 0611&lt;br&gt;district: 06&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.663608,41.757766,0 -87.678572,41.757523,0 -87.678297,41.747446,0 -87.673065,41.747513,0 -87.673045,41.746588,0 -87.663345,41.746715,0 -87.663608,41.757766,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0612</name>
+	<description>name: 0612&lt;br&gt;district: 06&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.649083,41.758002,0 -87.663608,41.757766,0 -87.663345,41.746715,0 -87.648788,41.746928,0 -87.649083,41.758002,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0613</name>
+	<description>name: 0613&lt;br&gt;district: 06&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.643934,41.746998,0 -87.658493,41.746786,0 -87.658205,41.735862,0 -87.643622,41.73607,0 -87.643934,41.746998,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0614</name>
+	<description>name: 0614&lt;br&gt;district: 06&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.673065,41.747513,0 -87.678297,41.747446,0 -87.678525,41.746298,0 -87.67939,41.74526,0 -87.680903,41.744594,0 -87.682715,41.744483,0 -87.682514,41.735527,0 -87.658205,41.735862,0 -87.658493,41.746786,0 -87.673045,41.746588,0 -87.673065,41.747513,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0621</name>
+	<description>name: 0621&lt;br&gt;district: 06&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634485,41.758078,0 -87.649083,41.758002,0 -87.648788,41.746928,0 -87.634206,41.747144,0 -87.634485,41.758078,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0622</name>
+	<description>name: 0622&lt;br&gt;district: 06&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.624864,41.747296,0 -87.643934,41.746998,0 -87.643622,41.73607,0 -87.62457,41.73629,0 -87.624864,41.747296,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0623</name>
+	<description>name: 0623&lt;br&gt;district: 06&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.61512,41.758408,0 -87.634485,41.758078,0 -87.634206,41.747144,0 -87.614871,41.747463,0 -87.61512,41.758408,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0624</name>
+	<description>name: 0624&lt;br&gt;district: 06&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.595408,41.758534,0 -87.61512,41.758408,0 -87.61492,41.749291,0 -87.597434,41.749543,0 -87.595408,41.758534,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0631</name>
+	<description>name: 0631&lt;br&gt;district: 06&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.597434,41.749543,0 -87.61492,41.749291,0 -87.614871,41.747463,0 -87.624864,41.747296,0 -87.624769,41.743649,0 -87.598697,41.744047,0 -87.597434,41.749543,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0632</name>
+	<description>name: 0632&lt;br&gt;district: 06&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.598697,41.744047,0 -87.624769,41.743649,0 -87.624472,41.732689,0 -87.601189,41.733042,0 -87.598697,41.744047,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0633</name>
+	<description>name: 0633&lt;br&gt;district: 06&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.601189,41.733042,0 -87.619275,41.732772,0 -87.618992,41.721809,0 -87.603823,41.72204,0 -87.601189,41.733042,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0634</name>
+	<description>name: 0634&lt;br&gt;district: 06&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.62457,41.73629,0 -87.633775,41.735947,0 -87.633533,41.721592,0 -87.618992,41.721809,0 -87.619275,41.732772,0 -87.624472,41.732689,0 -87.62457,41.73629,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0711</name>
+	<description>name: 0711&lt;br&gt;district: 07&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.630759,41.794196,0 -87.64515,41.793944,0 -87.644786,41.779751,0 -87.630544,41.779981,0 -87.630759,41.794196,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0712</name>
+	<description>name: 0712&lt;br&gt;district: 07&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.64515,41.793944,0 -87.654865,41.793802,0 -87.654502,41.779608,0 -87.644786,41.779751,0 -87.64515,41.793944,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0713</name>
+	<description>name: 0713&lt;br&gt;district: 07&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.654865,41.793802,0 -87.664575,41.793664,0 -87.664221,41.779465,0 -87.654502,41.779608,0 -87.654865,41.793802,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0714</name>
+	<description>name: 0714&lt;br&gt;district: 07&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.664394,41.786747,0 -87.679171,41.786563,0 -87.678978,41.779241,0 -87.664221,41.779465,0 -87.664394,41.786747,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0715</name>
+	<description>name: 0715&lt;br&gt;district: 07&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.664575,41.793664,0 -87.679283,41.793495,0 -87.679171,41.786563,0 -87.664394,41.786747,0 -87.664575,41.793664,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0722</name>
+	<description>name: 0722&lt;br&gt;district: 07&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.630544,41.779981,0 -87.639734,41.77983,0 -87.639707,41.768916,0 -87.625637,41.769186,0 -87.626098,41.773755,0 -87.627207,41.775487,0 -87.629951,41.777943,0 -87.630544,41.779981,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0723</name>
+	<description>name: 0723&lt;br&gt;district: 07&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.639734,41.77983,0 -87.649643,41.779674,0 -87.649357,41.768765,0 -87.639707,41.768916,0 -87.639734,41.77983,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0724</name>
+	<description>name: 0724&lt;br&gt;district: 07&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.649643,41.779674,0 -87.659361,41.779543,0 -87.659066,41.768622,0 -87.649357,41.768765,0 -87.649643,41.779674,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0725</name>
+	<description>name: 0725&lt;br&gt;district: 07&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.659361,41.779543,0 -87.669079,41.779383,0 -87.668774,41.768496,0 -87.659066,41.768622,0 -87.659361,41.779543,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0726</name>
+	<description>name: 0726&lt;br&gt;district: 07&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.669079,41.779383,0 -87.678978,41.779241,0 -87.678731,41.768384,0 -87.668774,41.768496,0 -87.669079,41.779383,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0731</name>
+	<description>name: 0731&lt;br&gt;district: 07&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.625637,41.769186,0 -87.634762,41.768996,0 -87.634485,41.758078,0 -87.625369,41.758176,0 -87.625637,41.769186,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0732</name>
+	<description>name: 0732&lt;br&gt;district: 07&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634762,41.768996,0 -87.644507,41.768838,0 -87.644233,41.758062,0 -87.634485,41.758078,0 -87.634762,41.768996,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0733</name>
+	<description>name: 0733&lt;br&gt;district: 07&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.644507,41.768838,0 -87.654211,41.768693,0 -87.653931,41.757928,0 -87.644233,41.758062,0 -87.644507,41.768838,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0734</name>
+	<description>name: 0734&lt;br&gt;district: 07&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.654211,41.768693,0 -87.663898,41.768552,0 -87.663608,41.757766,0 -87.653931,41.757928,0 -87.654211,41.768693,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0735</name>
+	<description>name: 0735&lt;br&gt;district: 07&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.663898,41.768552,0 -87.678731,41.768384,0 -87.678572,41.757523,0 -87.663608,41.757766,0 -87.663898,41.768552,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0811</name>
+	<description>name: 0811&lt;br&gt;district: 08&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.762532,41.800058,0 -87.797154,41.799419,0 -87.801533,41.798073,0 -87.801176,41.783736,0 -87.768521,41.784125,0 -87.766314,41.784482,0 -87.764703,41.78576,0 -87.764306,41.787211,0 -87.76209,41.787253,0 -87.762532,41.800058,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0812</name>
+	<description>name: 0812&lt;br&gt;district: 08&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.76209,41.787253,0 -87.764306,41.787211,0 -87.765319,41.78507,0 -87.767922,41.784142,0 -87.801176,41.783736,0 -87.800806,41.773697,0 -87.761583,41.774388,0 -87.76209,41.787253,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0813</name>
+	<description>name: 0813&lt;br&gt;district: 08&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.723159,41.793204,0 -87.762302,41.792736,0 -87.761583,41.774388,0 -87.722667,41.775012,0 -87.723159,41.793204,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0814</name>
+	<description>name: 0814&lt;br&gt;district: 08&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.743478,41.819476,0 -87.744901,41.819095,0 -87.744999,41.815958,0 -87.75308,41.813414,0 -87.752736,41.800187,0 -87.762532,41.800058,0 -87.762302,41.792736,0 -87.742799,41.793016,0 -87.743478,41.819476,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0815</name>
+	<description>name: 0815&lt;br&gt;district: 08&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.724115,41.825605,0 -87.743478,41.819476,0 -87.742799,41.793016,0 -87.723159,41.793204,0 -87.724115,41.825605,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0821</name>
+	<description>name: 0821&lt;br&gt;district: 08&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.714416,41.828614,0 -87.724115,41.825605,0 -87.723373,41.800546,0 -87.703766,41.800821,0 -87.70444,41.82259,0 -87.714275,41.822448,0 -87.714416,41.828614,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0822</name>
+	<description>name: 0822&lt;br&gt;district: 08&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.703766,41.800821,0 -87.723373,41.800546,0 -87.722914,41.784115,0 -87.703295,41.784427,0 -87.703766,41.800821,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0823</name>
+	<description>name: 0823&lt;br&gt;district: 08&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.693545,41.784584,0 -87.722914,41.784115,0 -87.722667,41.775012,0 -87.693298,41.775449,0 -87.693545,41.784584,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0824</name>
+	<description>name: 0824&lt;br&gt;district: 08&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.684042,41.793877,0 -87.703554,41.793514,0 -87.703295,41.784427,0 -87.683794,41.784734,0 -87.683831,41.786529,0 -87.679171,41.786563,0 -87.679283,41.793495,0 -87.684031,41.793431,0 -87.684042,41.793877,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0825</name>
+	<description>name: 0825&lt;br&gt;district: 08&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.679171,41.786563,0 -87.683831,41.786529,0 -87.683794,41.784734,0 -87.693545,41.784584,0 -87.693298,41.775449,0 -87.678846,41.77564,0 -87.679171,41.786563,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0831</name>
+	<description>name: 0831&lt;br&gt;district: 08&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.688432,41.775521,0 -87.71264,41.77517,0 -87.712435,41.760605,0 -87.688037,41.760972,0 -87.688432,41.775521,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0832</name>
+	<description>name: 0832&lt;br&gt;district: 08&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.678846,41.77564,0 -87.688432,41.775521,0 -87.688037,41.760972,0 -87.678669,41.76111,0 -87.678846,41.77564,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0833</name>
+	<description>name: 0833&lt;br&gt;district: 08&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.71264,41.77517,0 -87.742165,41.77478,0 -87.741501,41.752838,0 -87.722036,41.753374,0 -87.721909,41.749438,0 -87.712091,41.749593,0 -87.71264,41.77517,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0834</name>
+	<description>name: 0834&lt;br&gt;district: 08&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.722036,41.753374,0 -87.741501,41.752838,0 -87.741067,41.734524,0 -87.702095,41.73519,0 -87.702393,41.74974,0 -87.721909,41.749438,0 -87.722036,41.753374,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0835</name>
+	<description>name: 0835&lt;br&gt;district: 08&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.678669,41.76111,0 -87.712435,41.760605,0 -87.712091,41.749593,0 -87.702393,41.74974,0 -87.702095,41.73519,0 -87.682514,41.735527,0 -87.682715,41.744483,0 -87.680053,41.744871,0 -87.678901,41.745691,0 -87.678352,41.746861,0 -87.678669,41.76111,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0911</name>
+	<description>name: 0911&lt;br&gt;district: 09&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.685019,41.837874,0 -87.714416,41.828614,0 -87.714275,41.822448,0 -87.68424,41.823,0 -87.684584,41.835911,0 -87.685019,41.837874,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0912</name>
+	<description>name: 0912&lt;br&gt;district: 09&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.665877,41.844934,0 -87.669931,41.843983,0 -87.675742,41.841498,0 -87.677618,41.840239,0 -87.685019,41.837874,0 -87.684584,41.835911,0 -87.68424,41.823,0 -87.65597,41.823427,0 -87.655574,41.825111,0 -87.655728,41.83062,0 -87.657385,41.8306,0 -87.658659,41.832557,0 -87.663078,41.836823,0 -87.664041,41.838693,0 -87.665742,41.837684,0 -87.665877,41.844934,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0913</name>
+	<description>name: 0913&lt;br&gt;district: 09&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.646474,41.849271,0 -87.653053,41.847947,0 -87.657046,41.848213,0 -87.663919,41.844001,0 -87.665877,41.844934,0 -87.665742,41.837684,0 -87.664041,41.838693,0 -87.663078,41.836823,0 -87.658659,41.832557,0 -87.657385,41.8306,0 -87.646106,41.83075,0 -87.646474,41.849271,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0914</name>
+	<description>name: 0914&lt;br&gt;district: 09&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.630896,41.860131,0 -87.634515,41.860133,0 -87.635494,41.856938,0 -87.639394,41.854285,0 -87.64264,41.850024,0 -87.646474,41.849271,0 -87.646278,41.838046,0 -87.629723,41.838266,0 -87.630896,41.860131,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0915</name>
+	<description>name: 0915&lt;br&gt;district: 09&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.630339,41.838257,0 -87.646278,41.838046,0 -87.646106,41.83075,0 -87.655728,41.83062,0 -87.655574,41.825111,0 -87.65597,41.823427,0 -87.630033,41.823666,0 -87.630339,41.838257,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0921</name>
+	<description>name: 0921&lt;br&gt;district: 09&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.68424,41.823,0 -87.70444,41.82259,0 -87.704262,41.815421,0 -87.684072,41.815703,0 -87.68424,41.823,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0922</name>
+	<description>name: 0922&lt;br&gt;district: 09&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.684072,41.815703,0 -87.704262,41.815421,0 -87.703867,41.804377,0 -87.68437,41.804648,0 -87.683743,41.804341,0 -87.684072,41.815703,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0923</name>
+	<description>name: 0923&lt;br&gt;district: 09&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.68437,41.804648,0 -87.703867,41.804377,0 -87.703554,41.793514,0 -87.683478,41.793853,0 -87.683743,41.804341,0 -87.68437,41.804648,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0924</name>
+	<description>name: 0924&lt;br&gt;district: 09&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.655497,41.823213,0 -87.68424,41.823,0 -87.683874,41.808417,0 -87.65524,41.808734,0 -87.6554,41.818567,0 -87.65587,41.820098,0 -87.655497,41.823213,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0925</name>
+	<description>name: 0925&lt;br&gt;district: 09&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.630033,41.823666,0 -87.65597,41.823427,0 -87.655497,41.823213,0 -87.65587,41.820098,0 -87.6554,41.818567,0 -87.65524,41.808734,0 -87.631219,41.80915,0 -87.629637,41.812595,0 -87.630033,41.823666,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0931</name>
+	<description>name: 0931&lt;br&gt;district: 09&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.664973,41.808604,0 -87.683874,41.808417,0 -87.683673,41.801127,0 -87.664776,41.801318,0 -87.664973,41.808604,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0932</name>
+	<description>name: 0932&lt;br&gt;district: 09&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.664776,41.801318,0 -87.683673,41.801127,0 -87.683478,41.793853,0 -87.684042,41.793877,0 -87.684031,41.793431,0 -87.664575,41.793664,0 -87.664776,41.801318,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0933</name>
+	<description>name: 0933&lt;br&gt;district: 09&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.645538,41.808864,0 -87.664973,41.808604,0 -87.664776,41.801318,0 -87.645345,41.801584,0 -87.645538,41.808864,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0934</name>
+	<description>name: 0934&lt;br&gt;district: 09&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.645345,41.801584,0 -87.664776,41.801318,0 -87.664575,41.793664,0 -87.64515,41.793944,0 -87.645345,41.801584,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>0935</name>
+	<description>name: 0935&lt;br&gt;district: 09&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.631219,41.80915,0 -87.645538,41.808864,0 -87.64515,41.793944,0 -87.630759,41.794196,0 -87.631219,41.80915,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1011</name>
+	<description>name: 1011&lt;br&gt;district: 10&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.715421,41.86629,0 -87.739932,41.86596,0 -87.739706,41.860498,0 -87.715261,41.860803,0 -87.715421,41.86629,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1012</name>
+	<description>name: 1012&lt;br&gt;district: 10&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.72501,41.860695,0 -87.739706,41.860498,0 -87.739419,41.851351,0 -87.724759,41.851547,0 -87.72501,41.860695,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1013</name>
+	<description>name: 1013&lt;br&gt;district: 10&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.714999,41.851663,0 -87.739419,41.851351,0 -87.73918,41.844047,0 -87.714787,41.844385,0 -87.714999,41.851663,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1014</name>
+	<description>name: 1014&lt;br&gt;district: 10&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.715261,41.860803,0 -87.72501,41.860695,0 -87.724759,41.851547,0 -87.714999,41.851663,0 -87.715261,41.860803,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1021</name>
+	<description>name: 1021&lt;br&gt;district: 10&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.708102,41.866379,0 -87.715421,41.86629,0 -87.715083,41.854568,0 -87.707846,41.857111,0 -87.708102,41.866379,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1022</name>
+	<description>name: 1022&lt;br&gt;district: 10&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.695907,41.866511,0 -87.708102,41.866379,0 -87.707689,41.851736,0 -87.699089,41.851853,0 -87.699176,41.854451,0 -87.695558,41.855251,0 -87.695907,41.866511,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1023</name>
+	<description>name: 1023&lt;br&gt;district: 10&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.686038,41.866613,0 -87.695907,41.866511,0 -87.695558,41.855251,0 -87.699176,41.854451,0 -87.699089,41.851853,0 -87.68564,41.852032,0 -87.686038,41.866613,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1024</name>
+	<description>name: 1024&lt;br&gt;district: 10&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.707846,41.857111,0 -87.715083,41.854568,0 -87.714787,41.844385,0 -87.70504,41.844518,0 -87.705255,41.851765,0 -87.707689,41.851736,0 -87.707846,41.857111,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1031</name>
+	<description>name: 1031&lt;br&gt;district: 10&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.717233,41.84435,0 -87.73918,41.844047,0 -87.738648,41.822059,0 -87.744802,41.822009,0 -87.744901,41.819095,0 -87.716823,41.827833,0 -87.717233,41.84435,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1032</name>
+	<description>name: 1032&lt;br&gt;district: 10&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.70504,41.844518,0 -87.717233,41.84435,0 -87.716823,41.827833,0 -87.704669,41.83164,0 -87.70504,41.844518,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1033</name>
+	<description>name: 1033&lt;br&gt;district: 10&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.695446,41.851902,0 -87.705255,41.851765,0 -87.704669,41.83164,0 -87.694956,41.83477,0 -87.695446,41.851902,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1034</name>
+	<description>name: 1034&lt;br&gt;district: 10&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.666024,41.852331,0 -87.695446,41.851902,0 -87.694956,41.83477,0 -87.677618,41.840239,0 -87.672305,41.84306,0 -87.667503,41.844822,0 -87.665877,41.844934,0 -87.666024,41.852331,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1111</name>
+	<description>name: 1111&lt;br&gt;district: 11&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.726303,41.902671,0 -87.745978,41.902352,0 -87.745538,41.887549,0 -87.725868,41.887769,0 -87.726303,41.902671,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1112</name>
+	<description>name: 1112&lt;br&gt;district: 11&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.716562,41.902754,0 -87.726303,41.902671,0 -87.726029,41.893533,0 -87.716261,41.893626,0 -87.716562,41.902754,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1113</name>
+	<description>name: 1113&lt;br&gt;district: 11&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.735703,41.887661,0 -87.745538,41.887549,0 -87.745146,41.876808,0 -87.735349,41.876966,0 -87.735703,41.887661,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1114</name>
+	<description>name: 1114&lt;br&gt;district: 11&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.725868,41.887769,0 -87.735703,41.887661,0 -87.735516,41.881928,0 -87.725707,41.881937,0 -87.725868,41.887769,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1115</name>
+	<description>name: 1115&lt;br&gt;district: 11&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.725707,41.881937,0 -87.735516,41.881928,0 -87.735349,41.876966,0 -87.725546,41.877087,0 -87.725707,41.881937,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1121</name>
+	<description>name: 1121&lt;br&gt;district: 11&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.706789,41.902832,0 -87.716562,41.902754,0 -87.716355,41.889957,0 -87.70639,41.89007,0 -87.706789,41.902832,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1122</name>
+	<description>name: 1122&lt;br&gt;district: 11&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.716261,41.893626,0 -87.726029,41.893533,0 -87.725546,41.877087,0 -87.715774,41.877212,0 -87.715907,41.88127,0 -87.715208,41.882842,0 -87.716838,41.884751,0 -87.716261,41.893626,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1123</name>
+	<description>name: 1123&lt;br&gt;district: 11&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.70639,41.89007,0 -87.716355,41.889957,0 -87.716833,41.884689,0 -87.715202,41.882774,0 -87.715907,41.88127,0 -87.715774,41.877212,0 -87.710886,41.877277,0 -87.711006,41.880917,0 -87.706123,41.880973,0 -87.70639,41.89007,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1124</name>
+	<description>name: 1124&lt;br&gt;district: 11&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.696289,41.881077,0 -87.711006,41.880917,0 -87.710886,41.877277,0 -87.706015,41.877326,0 -87.705971,41.875876,0 -87.696153,41.875981,0 -87.696289,41.881077,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1125</name>
+	<description>name: 1125&lt;br&gt;district: 11&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.696153,41.875981,0 -87.686269,41.876084,0 -87.686431,41.881162,0 -87.696289,41.881077,0 -87.696153,41.875981,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1131</name>
+	<description>name: 1131&lt;br&gt;district: 11&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.7329,41.876998,0 -87.745146,41.876808,0 -87.744754,41.865897,0 -87.732496,41.866067,0 -87.7329,41.876998,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1132</name>
+	<description>name: 1132&lt;br&gt;district: 11&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.723106,41.877118,0 -87.7329,41.876998,0 -87.732496,41.866067,0 -87.722735,41.866206,0 -87.723106,41.877118,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1133</name>
+	<description>name: 1133&lt;br&gt;district: 11&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.710886,41.877277,0 -87.723106,41.877118,0 -87.722735,41.866206,0 -87.710543,41.866349,0 -87.710886,41.877277,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1134</name>
+	<description>name: 1134&lt;br&gt;district: 11&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.706015,41.877326,0 -87.710886,41.877277,0 -87.710543,41.866349,0 -87.700788,41.866456,0 -87.70108,41.875929,0 -87.705971,41.875876,0 -87.706015,41.877326,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1135</name>
+	<description>name: 1135&lt;br&gt;district: 11&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.686269,41.876084,0 -87.70108,41.875929,0 -87.700788,41.866456,0 -87.686038,41.866613,0 -87.686269,41.876084,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1211</name>
+	<description>name: 1211&lt;br&gt;district: 12&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.689488,41.902993,0 -87.706789,41.902832,0 -87.706556,41.895553,0 -87.689307,41.895716,0 -87.689488,41.902993,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1212</name>
+	<description>name: 1212&lt;br&gt;district: 12&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.672381,41.903267,0 -87.689488,41.902993,0 -87.689307,41.895716,0 -87.672173,41.895992,0 -87.672381,41.903267,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1213</name>
+	<description>name: 1213&lt;br&gt;district: 12&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.657425,41.903509,0 -87.672381,41.903267,0 -87.672173,41.895992,0 -87.644222,41.896455,0 -87.644886,41.897694,0 -87.64879,41.898088,0 -87.6519,41.900013,0 -87.655381,41.900813,0 -87.657425,41.903509,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1214</name>
+	<description>name: 1214&lt;br&gt;district: 12&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.644222,41.896455,0 -87.654612,41.896279,0 -87.659026,41.891061,0 -87.657386,41.89108,0 -87.656801,41.885503,0 -87.637733,41.885722,0 -87.637588,41.886234,0 -87.638765,41.887162,0 -87.639435,41.889228,0 -87.641574,41.892049,0 -87.644075,41.894139,0 -87.644222,41.896455,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1215</name>
+	<description>name: 1215&lt;br&gt;district: 12&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.654612,41.896279,0 -87.672173,41.895992,0 -87.671852,41.885155,0 -87.656801,41.885503,0 -87.657386,41.89108,0 -87.659026,41.891061,0 -87.654612,41.896279,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1221</name>
+	<description>name: 1221&lt;br&gt;district: 12&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.672173,41.895992,0 -87.706556,41.895553,0 -87.706337,41.888238,0 -87.671961,41.8888,0 -87.672173,41.895992,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1222</name>
+	<description>name: 1222&lt;br&gt;district: 12&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.686623,41.888511,0 -87.706337,41.888238,0 -87.706123,41.880973,0 -87.686431,41.881162,0 -87.686623,41.888511,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1223</name>
+	<description>name: 1223&lt;br&gt;district: 12&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.671961,41.8888,0 -87.686622,41.888635,0 -87.686365,41.878589,0 -87.671685,41.878818,0 -87.671961,41.8888,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1224</name>
+	<description>name: 1224&lt;br&gt;district: 12&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.64538,41.885691,0 -87.671852,41.885155,0 -87.671685,41.878818,0 -87.657057,41.879057,0 -87.657142,41.881616,0 -87.645156,41.881807,0 -87.64538,41.885691,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1225</name>
+	<description>name: 1225&lt;br&gt;district: 12&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.669228,41.878856,0 -87.686365,41.878589,0 -87.686038,41.866613,0 -87.67625,41.866755,0 -87.67642,41.872757,0 -87.669228,41.878856,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1231</name>
+	<description>name: 1231&lt;br&gt;district: 12&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.657057,41.879057,0 -87.669228,41.878856,0 -87.67642,41.872757,0 -87.67625,41.866755,0 -87.656681,41.866997,0 -87.657057,41.879057,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1232</name>
+	<description>name: 1232&lt;br&gt;district: 12&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.645156,41.881807,0 -87.657142,41.881616,0 -87.656479,41.859765,0 -87.64386,41.859958,0 -87.644734,41.875678,0 -87.645488,41.878218,0 -87.645156,41.881807,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1233</name>
+	<description>name: 1233&lt;br&gt;district: 12&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.656681,41.866997,0 -87.686038,41.866613,0 -87.685824,41.857497,0 -87.681069,41.858747,0 -87.674103,41.859779,0 -87.666209,41.860014,0 -87.666095,41.855974,0 -87.65637,41.856136,0 -87.656681,41.866997,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1234</name>
+	<description>name: 1234&lt;br&gt;district: 12&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.666209,41.860014,0 -87.679764,41.858983,0 -87.685824,41.857497,0 -87.68564,41.852032,0 -87.666024,41.852331,0 -87.666209,41.860014,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1235</name>
+	<description>name: 1235&lt;br&gt;district: 12&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634515,41.860133,0 -87.656479,41.859765,0 -87.65637,41.856136,0 -87.666095,41.855974,0 -87.665877,41.844934,0 -87.663919,41.844001,0 -87.656673,41.84832,0 -87.653053,41.847947,0 -87.64264,41.850024,0 -87.639394,41.854285,0 -87.635494,41.856938,0 -87.634515,41.860133,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1411</name>
+	<description>name: 1411&lt;br&gt;district: 14&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.692567,41.939427,0 -87.707698,41.939331,0 -87.707358,41.929042,0 -87.705752,41.928059,0 -87.705249,41.928402,0 -87.687774,41.928635,0 -87.687987,41.936104,0 -87.690149,41.936699,0 -87.691486,41.938792,0 -87.692567,41.939427,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1412</name>
+	<description>name: 1412&lt;br&gt;district: 14&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.707698,41.939331,0 -87.717399,41.939216,0 -87.717088,41.928255,0 -87.707895,41.928365,0 -87.707358,41.929042,0 -87.707698,41.939331,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1413</name>
+	<description>name: 1413&lt;br&gt;district: 14&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.707895,41.928365,0 -87.717088,41.928255,0 -87.716772,41.917283,0 -87.706967,41.917402,0 -87.707297,41.927481,0 -87.707895,41.928365,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1414</name>
+	<description>name: 1414&lt;br&gt;district: 14&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.705752,41.928059,0 -87.707489,41.929005,0 -87.707895,41.928369,0 -87.707297,41.927481,0 -87.706967,41.917402,0 -87.697201,41.917489,0 -87.697515,41.928466,0 -87.705249,41.928402,0 -87.705752,41.928059,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1421</name>
+	<description>name: 1421&lt;br&gt;district: 14&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.692306,41.917531,0 -87.708671,41.91738,0 -87.708439,41.910095,0 -87.692111,41.910265,0 -87.692306,41.917531,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1422</name>
+	<description>name: 1422&lt;br&gt;district: 14&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.708671,41.91738,0 -87.716772,41.917283,0 -87.716562,41.902754,0 -87.706789,41.902832,0 -87.70696,41.910115,0 -87.708439,41.910095,0 -87.708671,41.91738,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1423</name>
+	<description>name: 1423&lt;br&gt;district: 14&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.687221,41.910321,0 -87.70696,41.910115,0 -87.706789,41.902832,0 -87.687027,41.903016,0 -87.687221,41.910321,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1424</name>
+	<description>name: 1424&lt;br&gt;district: 14&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.672576,41.910561,0 -87.687221,41.910321,0 -87.687027,41.903016,0 -87.666485,41.903358,0 -87.672487,41.907195,0 -87.672576,41.910561,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1431</name>
+	<description>name: 1431&lt;br&gt;district: 14&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.687774,41.928635,0 -87.697515,41.928466,0 -87.697201,41.917489,0 -87.68741,41.917568,0 -87.687774,41.928635,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1432</name>
+	<description>name: 1432&lt;br&gt;district: 14&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.687987,41.936104,0 -87.68741,41.917568,0 -87.66737,41.917919,0 -87.665211,41.918382,0 -87.668096,41.92203,0 -87.672161,41.922806,0 -87.674255,41.92439,0 -87.674938,41.926658,0 -87.676524,41.927591,0 -87.679705,41.928464,0 -87.680805,41.93064,0 -87.682149,41.931404,0 -87.683433,41.933396,0 -87.685968,41.934033,0 -87.687987,41.936104,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1433</name>
+	<description>name: 1433&lt;br&gt;district: 14&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.665211,41.918382,0 -87.672762,41.91785,0 -87.672487,41.907195,0 -87.666485,41.903358,0 -87.657425,41.903509,0 -87.658289,41.905041,0 -87.656851,41.910745,0 -87.657862,41.913809,0 -87.661015,41.91615,0 -87.663706,41.915633,0 -87.664752,41.917992,0 -87.665211,41.918382,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1434</name>
+	<description>name: 1434&lt;br&gt;district: 14&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.672762,41.91785,0 -87.692306,41.917531,0 -87.692111,41.910265,0 -87.672576,41.910561,0 -87.672762,41.91785,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1511</name>
+	<description>name: 1511&lt;br&gt;district: 15&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.765654,41.902145,0 -87.775362,41.901998,0 -87.775006,41.891001,0 -87.765249,41.891097,0 -87.765654,41.902145,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1512</name>
+	<description>name: 1512&lt;br&gt;district: 15&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.765249,41.891097,0 -87.775006,41.891001,0 -87.774722,41.882103,0 -87.764926,41.882244,0 -87.765249,41.891097,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1513</name>
+	<description>name: 1513&lt;br&gt;district: 15&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.764926,41.882244,0 -87.774722,41.882103,0 -87.774139,41.865459,0 -87.764309,41.865601,0 -87.764926,41.882244,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1522</name>
+	<description>name: 1522&lt;br&gt;district: 15&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.75514,41.882364,0 -87.764926,41.882244,0 -87.764309,41.865601,0 -87.754533,41.865752,0 -87.75514,41.882364,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1523</name>
+	<description>name: 1523&lt;br&gt;district: 15&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.755463,41.891195,0 -87.765249,41.891097,0 -87.764926,41.882244,0 -87.75514,41.882364,0 -87.755463,41.891195,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1524</name>
+	<description>name: 1524&lt;br&gt;district: 15&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.755774,41.902249,0 -87.765654,41.902145,0 -87.765249,41.891097,0 -87.755463,41.891195,0 -87.755774,41.902249,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1531</name>
+	<description>name: 1531&lt;br&gt;district: 15&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.745978,41.902352,0 -87.755774,41.902249,0 -87.755528,41.893,0 -87.745746,41.893162,0 -87.745978,41.902352,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1532</name>
+	<description>name: 1532&lt;br&gt;district: 15&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.745746,41.893162,0 -87.755528,41.893,0 -87.755111,41.881667,0 -87.745341,41.881816,0 -87.745746,41.893162,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1533</name>
+	<description>name: 1533&lt;br&gt;district: 15&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.745341,41.881816,0 -87.755111,41.881667,0 -87.754533,41.865752,0 -87.744754,41.865897,0 -87.745341,41.881816,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1611</name>
+	<description>name: 1611&lt;br&gt;district: 16&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.806547,42.018965,0 -87.821202,42.018642,0 -87.821215,42.015544,0 -87.820081,42.015556,0 -87.820108,42.011946,0 -87.819738,42.011952,0 -87.819729,42.011386,0 -87.821253,42.011357,0 -87.82137,42.006079,0 -87.807272,41.997257,0 -87.787677,41.985948,0 -87.7876,41.990166,0 -87.771739,41.990198,0 -87.770896,41.991072,0 -87.77098,41.991452,0 -87.772933,41.991813,0 -87.773703,41.993122,0 -87.771415,41.99484,0 -87.771429,41.996395,0 -87.773495,41.997055,0 -87.775867,41.996663,0 -87.77671,41.997249,0 -87.779713,41.996784,0 -87.780289,42.001607,0 -87.780988,42.002869,0 -87.782035,42.002593,0 -87.783061,42.000077,0 -87.78559,41.999721,0 -87.78807,41.999653,0 -87.79023,42.000638,0 -87.790676,42.00043,0 -87.791166,42.00098,0 -87.797124,42.00094,0 -87.797142,42.000005,0 -87.799481,41.999985,0 -87.799643,42.000869,0 -87.801104,42.000872,0 -87.801103,42.00154,0 -87.805295,42.001498,0 -87.805388,42.000859,0 -87.806759,42.000853,0 -87.806547,42.018965,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1612</name>
+	<description>name: 1612&lt;br&gt;district: 16&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.80194,41.994077,0 -87.82137,42.006079,0 -87.821404,41.996922,0 -87.823396,41.983982,0 -87.813683,41.982233,0 -87.787746,41.982362,0 -87.787677,41.985948,0 -87.80194,41.994077,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1613</name>
+	<description>name: 1613&lt;br&gt;district: 16&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.823396,41.983982,0 -87.824686,41.974087,0 -87.819398,41.974223,0 -87.819432,41.973215,0 -87.818972,41.973212,0 -87.818987,41.970617,0 -87.816953,41.97066,0 -87.816917,41.974289,0 -87.807067,41.974538,0 -87.807156,41.96827,0 -87.802542,41.968297,0 -87.802525,41.968751,0 -87.78801,41.968867,0 -87.787746,41.982362,0 -87.813683,41.982233,0 -87.819266,41.983443,0 -87.823396,41.983982,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1614</name>
+	<description>name: 1614&lt;br&gt;district: 16&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.823327,41.984509,0 -87.855835,41.989052,0 -87.855537,41.987943,0 -87.856648,41.984432,0 -87.85578,41.982163,0 -87.855877,41.981099,0 -87.861758,41.975168,0 -87.86189,41.973281,0 -87.860106,41.971756,0 -87.858795,41.971432,0 -87.855841,41.972586,0 -87.854979,41.972341,0 -87.854155,41.971311,0 -87.855029,41.968708,0 -87.854772,41.966913,0 -87.855677,41.962844,0 -87.858718,41.957541,0 -87.858587,41.956143,0 -87.857976,41.955364,0 -87.855747,41.954495,0 -87.85442,41.953338,0 -87.836666,41.952052,0 -87.831793,41.952164,0 -87.831821,41.955701,0 -87.832678,41.959438,0 -87.836699,41.95936,0 -87.836682,41.966597,0 -87.84657,41.966407,0 -87.846534,41.97189,0 -87.841565,41.971972,0 -87.841582,41.970144,0 -87.83665,41.970232,0 -87.836649,41.971366,0 -87.83796,41.971363,0 -87.837944,41.973844,0 -87.84155,41.973788,0 -87.841555,41.974682,0 -87.83663,41.974772,0 -87.836627,41.975326,0 -87.833655,41.975355,0 -87.833431,41.97392,0 -87.831705,41.973949,0 -87.83172,41.973078,0 -87.826743,41.973137,0 -87.826735,41.974034,0 -87.824686,41.974087,0 -87.824426,41.976075,0 -87.833611,41.975921,0 -87.833617,41.976893,0 -87.829595,41.976958,0 -87.830018,41.977329,0 -87.830021,41.978417,0 -87.828638,41.978462,0 -87.828686,41.979127,0 -87.828082,41.979305,0 -87.828687,41.979299,0 -87.828838,41.980598,0 -87.835095,41.980503,0 -87.83435,41.981156,0 -87.835109,41.981149,0 -87.835092,41.982659,0 -87.833594,41.982657,0 -87.833373,41.983688,0 -87.828178,41.983842,0 -87.828136,41.981921,0 -87.82526,41.981961,0 -87.825294,41.983068,0 -87.82352,41.983093,0 -87.823327,41.984509,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1621</name>
+	<description>name: 1621&lt;br&gt;district: 16&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.776939,42.015588,0 -87.779161,42.015612,0 -87.779266,42.011992,0 -87.788723,42.011997,0 -87.782003,42.004498,0 -87.79023,42.000638,0 -87.787934,41.999635,0 -87.783175,42.00002,0 -87.782035,42.002593,0 -87.780925,42.002829,0 -87.780289,42.001607,0 -87.779713,41.996784,0 -87.77671,41.997249,0 -87.775867,41.996663,0 -87.773495,41.997055,0 -87.771361,41.996307,0 -87.771515,41.994698,0 -87.773711,41.993303,0 -87.772899,41.991789,0 -87.770882,41.991356,0 -87.771726,41.990268,0 -87.7714,41.989539,0 -87.767953,41.988773,0 -87.767581,41.989643,0 -87.766138,41.99015,0 -87.766471,41.98905,0 -87.768215,41.987291,0 -87.7683,41.985001,0 -87.747912,41.972881,0 -87.748343,41.997331,0 -87.753062,41.997387,0 -87.76227,42.001687,0 -87.761663,42.008354,0 -87.767514,42.008399,0 -87.767556,42.00469,0 -87.765475,42.003726,0 -87.765795,42.003325,0 -87.769869,42.005247,0 -87.773349,42.011958,0 -87.776944,42.011982,0 -87.776939,42.015588,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1622</name>
+	<description>name: 1622&lt;br&gt;district: 16&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.771739,41.990198,0 -87.7876,41.990166,0 -87.788014,41.968411,0 -87.786759,41.968384,0 -87.786805,41.960217,0 -87.767243,41.960484,0 -87.767601,41.971449,0 -87.768548,41.971704,0 -87.768254,41.987109,0 -87.766471,41.98905,0 -87.766138,41.99015,0 -87.767581,41.989643,0 -87.767953,41.988773,0 -87.770479,41.989059,0 -87.771739,41.990198,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1623</name>
+	<description>name: 1623&lt;br&gt;district: 16&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.768304,41.984766,0 -87.768548,41.971704,0 -87.767601,41.971449,0 -87.767243,41.960484,0 -87.747535,41.960722,0 -87.747588,41.962235,0 -87.746963,41.9629,0 -87.747636,41.964517,0 -87.747912,41.972881,0 -87.763963,41.982746,0 -87.768304,41.984766,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1624</name>
+	<description>name: 1624&lt;br&gt;district: 16&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.747535,41.960722,0 -87.786805,41.960217,0 -87.78656,41.952917,0 -87.747305,41.953418,0 -87.747535,41.960722,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1631</name>
+	<description>name: 1631&lt;br&gt;district: 16&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.807269,41.952765,0 -87.836542,41.952048,0 -87.85442,41.953338,0 -87.853914,41.952108,0 -87.855004,41.948199,0 -87.853822,41.945843,0 -87.852112,41.93979,0 -87.849621,41.937285,0 -87.806747,41.937996,0 -87.807269,41.952765,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1632</name>
+	<description>name: 1632&lt;br&gt;district: 16&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.786805,41.960217,0 -87.794328,41.96003,0 -87.807291,41.953866,0 -87.806747,41.937996,0 -87.786031,41.938317,0 -87.786805,41.960217,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1633</name>
+	<description>name: 1633&lt;br&gt;district: 16&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.762076,41.953243,0 -87.78656,41.952917,0 -87.786031,41.938317,0 -87.761596,41.938638,0 -87.762076,41.953243,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1634</name>
+	<description>name: 1634&lt;br&gt;district: 16&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.747305,41.953418,0 -87.762076,41.953243,0 -87.761596,41.938638,0 -87.746873,41.938826,0 -87.747305,41.953418,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1711</name>
+	<description>name: 1711&lt;br&gt;district: 17&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.710671,41.997366,0 -87.748343,41.997331,0 -87.74826,41.983677,0 -87.747306,41.983329,0 -87.746368,41.981902,0 -87.745807,41.982014,0 -87.745852,41.98263,0 -87.706902,41.98308,0 -87.709852,41.99281,0 -87.710671,41.997366,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1712</name>
+	<description>name: 1712&lt;br&gt;district: 17&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.706902,41.98308,0 -87.745852,41.98263,0 -87.745807,41.982014,0 -87.746368,41.981902,0 -87.747306,41.983329,0 -87.74826,41.983677,0 -87.747722,41.968029,0 -87.713363,41.968401,0 -87.713556,41.97569,0 -87.704725,41.975774,0 -87.706902,41.98308,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1713</name>
+	<description>name: 1713&lt;br&gt;district: 17&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.704725,41.975774,0 -87.713556,41.97569,0 -87.71325,41.964708,0 -87.697135,41.964788,0 -87.702704,41.970418,0 -87.704725,41.975774,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1722</name>
+	<description>name: 1722&lt;br&gt;district: 17&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.728028,41.968242,0 -87.747722,41.968029,0 -87.747613,41.964296,0 -87.746963,41.9629,0 -87.747588,41.962235,0 -87.747305,41.953418,0 -87.727617,41.953648,0 -87.728028,41.968242,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1723</name>
+	<description>name: 1723&lt;br&gt;district: 17&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.713363,41.968401,0 -87.728028,41.968242,0 -87.727617,41.953648,0 -87.712905,41.953857,0 -87.713363,41.968401,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1724</name>
+	<description>name: 1724&lt;br&gt;district: 17&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.697135,41.964788,0 -87.71325,41.964708,0 -87.712905,41.953857,0 -87.694543,41.953992,0 -87.694267,41.95703,0 -87.694725,41.96121,0 -87.695624,41.963179,0 -87.697135,41.964788,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1731</name>
+	<description>name: 1731&lt;br&gt;district: 17&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.732242,41.9536,0 -87.747305,41.953418,0 -87.746873,41.938826,0 -87.727185,41.939095,0 -87.727401,41.946373,0 -87.73063,41.946332,0 -87.730822,41.95279,0 -87.732242,41.9536,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1732</name>
+	<description>name: 1932&lt;br&gt;district: 17&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.712905,41.953857,0 -87.732242,41.9536,0 -87.730822,41.95279,0 -87.73063,41.946332,0 -87.727401,41.946373,0 -87.727185,41.939095,0 -87.712492,41.939279,0 -87.712905,41.953857,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1733</name>
+	<description>name: 1733&lt;br&gt;district: 17&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.694543,41.953992,0 -87.712905,41.953857,0 -87.712492,41.939279,0 -87.692567,41.939427,0 -87.693633,41.940255,0 -87.695279,41.942766,0 -87.696837,41.949751,0 -87.694543,41.953992,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1811</name>
+	<description>name: 1811&lt;br&gt;district: 18&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.653613,41.925376,0 -87.664039,41.925207,0 -87.674476,41.925068,0 -87.674255,41.92439,0 -87.671887,41.922659,0 -87.668096,41.92203,0 -87.664535,41.917703,0 -87.663771,41.915678,0 -87.663029,41.915488,0 -87.661172,41.916182,0 -87.659235,41.915147,0 -87.657862,41.913809,0 -87.656861,41.910785,0 -87.655821,41.910794,0 -87.653107,41.91084,0 -87.653613,41.925376,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1812</name>
+	<description>name: 1812&lt;br&gt;district: 18&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.640479,41.925585,0 -87.653613,41.925376,0 -87.653367,41.918105,0 -87.638816,41.918322,0 -87.638818,41.922863,0 -87.640479,41.925585,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1813</name>
+	<description>name: 1813&lt;br&gt;district: 18&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.638816,41.918322,0 -87.653367,41.918105,0 -87.653107,41.91084,0 -87.638592,41.911115,0 -87.638816,41.918322,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1814</name>
+	<description>name: 1814&lt;br&gt;district: 18&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.629599,41.926521,0 -87.640479,41.925585,0 -87.638818,41.922863,0 -87.638592,41.911115,0 -87.624652,41.911224,0 -87.623119,41.912579,0 -87.620952,41.913098,0 -87.620501,41.913359,0 -87.620221,41.913716,0 -87.620132,41.914058,0 -87.620156,41.914579,0 -87.620292,41.914757,0 -87.620551,41.914863,0 -87.620989,41.914785,0 -87.620208,41.914556,0 -87.620212,41.913907,0 -87.620572,41.91337,0 -87.62059,41.913787,0 -87.622427,41.913573,0 -87.624025,41.914176,0 -87.626813,41.916286,0 -87.626044,41.916794,0 -87.626705,41.916435,0 -87.627857,41.91753,0 -87.6268,41.918251,0 -87.627354,41.918003,0 -87.628152,41.918804,0 -87.628419,41.919259,0 -87.627325,41.919747,0 -87.627956,41.919505,0 -87.628934,41.920821,0 -87.627703,41.921362,0 -87.628536,41.921033,0 -87.629486,41.922441,0 -87.628336,41.923074,0 -87.629003,41.92275,0 -87.629938,41.923547,0 -87.630275,41.925748,0 -87.629599,41.926521,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1821</name>
+	<description>name: 1821&lt;br&gt;district: 18&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.631682,41.911181,0 -87.643431,41.911018,0 -87.64322,41.903716,0 -87.631445,41.903901,0 -87.631682,41.911181,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1822</name>
+	<description>name: 1822&lt;br&gt;district: 18&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.643431,41.911018,0 -87.656861,41.910785,0 -87.657752,41.908368,0 -87.658157,41.904526,0 -87.655381,41.900813,0 -87.6519,41.900013,0 -87.64879,41.898088,0 -87.644886,41.897694,0 -87.644222,41.896455,0 -87.642929,41.896476,0 -87.643431,41.911018,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1823</name>
+	<description>name: 1823&lt;br&gt;district: 18&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634478,41.903853,0 -87.64322,41.903716,0 -87.642929,41.896476,0 -87.634203,41.896596,0 -87.634478,41.903853,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1824</name>
+	<description>name: 1824&lt;br&gt;district: 18&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.624652,41.911224,0 -87.631682,41.911181,0 -87.631445,41.903901,0 -87.634478,41.903853,0 -87.634354,41.900543,0 -87.619109,41.900954,0 -87.621868,41.902046,0 -87.623723,41.904049,0 -87.625046,41.908735,0 -87.624652,41.911224,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1831</name>
+	<description>name: 1831&lt;br&gt;district: 18&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.634203,41.896596,0 -87.644222,41.896455,0 -87.644117,41.894274,0 -87.641506,41.891969,0 -87.639435,41.889228,0 -87.638765,41.887162,0 -87.637588,41.886234,0 -87.635619,41.887452,0 -87.628002,41.887473,0 -87.628092,41.892469,0 -87.634088,41.892389,0 -87.634203,41.896596,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1832</name>
+	<description>name: 1832&lt;br&gt;district: 18&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.628313,41.900593,0 -87.634354,41.900543,0 -87.634088,41.892389,0 -87.628092,41.892469,0 -87.628313,41.900593,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1833</name>
+	<description>name: 1833&lt;br&gt;district: 18&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.619097,41.90094,0 -87.628317,41.90074,0 -87.628175,41.895679,0 -87.615715,41.89589,0 -87.619097,41.90094,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1834</name>
+	<description>name: 1834&lt;br&gt;district: 18&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.61602,41.895875,0 -87.628175,41.895679,0 -87.628002,41.887473,0 -87.625094,41.888905,0 -87.613763,41.888407,0 -87.61358,41.888909,0 -87.612523,41.889101,0 -87.612591,41.890159,0 -87.613661,41.890224,0 -87.613391,41.890576,0 -87.611458,41.890629,0 -87.611283,41.889274,0 -87.607833,41.889247,0 -87.60781,41.888516,0 -87.604734,41.888569,0 -87.607514,41.88864,0 -87.607665,41.889369,0 -87.609486,41.88939,0 -87.609535,41.891013,0 -87.598524,41.89145,0 -87.598549,41.892274,0 -87.600715,41.892443,0 -87.609796,41.892221,0 -87.609822,41.893146,0 -87.602352,41.893265,0 -87.602426,41.896371,0 -87.610154,41.896228,0 -87.61203,41.893327,0 -87.613686,41.893129,0 -87.61602,41.895875,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1911</name>
+	<description>name: 1911&lt;br&gt;district: 19&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.679186,41.968756,0 -87.688617,41.968617,0 -87.701076,41.968515,0 -87.696051,41.963682,0 -87.695088,41.96209,0 -87.694267,41.95703,0 -87.694543,41.953992,0 -87.690246,41.953986,0 -87.678754,41.954157,0 -87.679186,41.968756,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1912</name>
+	<description>name: 1912&lt;br&gt;district: 19&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.667497,41.9689,0 -87.679186,41.968756,0 -87.678754,41.954157,0 -87.66225,41.954378,0 -87.664471,41.957956,0 -87.665906,41.961473,0 -87.667497,41.9689,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1913</name>
+	<description>name: 1913&lt;br&gt;district: 19&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.65967,41.969025,0 -87.667497,41.9689,0 -87.665954,41.961635,0 -87.655144,41.961773,0 -87.65967,41.969025,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1914</name>
+	<description>name: 1914&lt;br&gt;district: 19&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.644306,41.969907,0 -87.649844,41.969158,0 -87.659665,41.968879,0 -87.655144,41.961773,0 -87.64693,41.961892,0 -87.638809,41.96324,0 -87.637241,41.965988,0 -87.640486,41.966925,0 -87.642558,41.968296,0 -87.642965,41.968055,0 -87.643272,41.968306,0 -87.642627,41.968354,0 -87.644306,41.969907,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1915</name>
+	<description>name: 1915&lt;br&gt;district: 19&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.637241,41.965988,0 -87.63871,41.963349,0 -87.639738,41.962802,0 -87.646992,41.961888,0 -87.665954,41.961635,0 -87.664471,41.957956,0 -87.66225,41.954378,0 -87.644573,41.954655,0 -87.64483,41.955717,0 -87.641243,41.955701,0 -87.641745,41.958364,0 -87.641629,41.959331,0 -87.641022,41.959351,0 -87.641613,41.959396,0 -87.641525,41.960183,0 -87.642291,41.96128,0 -87.641761,41.962158,0 -87.636592,41.962888,0 -87.635374,41.962429,0 -87.63583,41.961384,0 -87.637319,41.960493,0 -87.638822,41.960287,0 -87.640635,41.960819,0 -87.640903,41.960278,0 -87.640104,41.959804,0 -87.640284,41.959206,0 -87.640035,41.959791,0 -87.636832,41.959608,0 -87.634006,41.961684,0 -87.631513,41.962723,0 -87.631907,41.965923,0 -87.631638,41.967015,0 -87.630908,41.96829,0 -87.630898,41.968581,0 -87.631127,41.968794,0 -87.631456,41.968858,0 -87.631775,41.968769,0 -87.631969,41.968541,0 -87.63182,41.968146,0 -87.631632,41.96876,0 -87.630962,41.968421,0 -87.631841,41.966695,0 -87.631995,41.965068,0 -87.637241,41.965988,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1921</name>
+	<description>name: 1921&lt;br&gt;district: 19&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.678754,41.954157,0 -87.694543,41.953992,0 -87.696864,41.950006,0 -87.695396,41.943096,0 -87.693529,41.940136,0 -87.692567,41.939427,0 -87.678355,41.939573,0 -87.678754,41.954157,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1922</name>
+	<description>name: 1922&lt;br&gt;district: 19&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.664215,41.954355,0 -87.678754,41.954157,0 -87.678355,41.939573,0 -87.663821,41.939765,0 -87.664215,41.954355,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1923</name>
+	<description>name: 1923&lt;br&gt;district: 19&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.6497,41.954561,0 -87.664215,41.954355,0 -87.664015,41.947068,0 -87.649486,41.947315,0 -87.6497,41.954561,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1924</name>
+	<description>name: 1924&lt;br&gt;district: 19&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.649486,41.947315,0 -87.664015,41.947068,0 -87.663821,41.939765,0 -87.649267,41.939981,0 -87.649486,41.947315,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1925</name>
+	<description>name: 1925&lt;br&gt;district: 19&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.64483,41.955717,0 -87.644573,41.954655,0 -87.6497,41.954561,0 -87.649267,41.939981,0 -87.639838,41.940114,0 -87.63787,41.94068,0 -87.638666,41.942856,0 -87.640478,41.944875,0 -87.640049,41.945947,0 -87.642007,41.948013,0 -87.640021,41.946397,0 -87.637313,41.945752,0 -87.635922,41.942979,0 -87.634493,41.943191,0 -87.633724,41.942249,0 -87.633136,41.942304,0 -87.637966,41.947921,0 -87.641243,41.955701,0 -87.64483,41.955717,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1931</name>
+	<description>name: 1931&lt;br&gt;district: 19&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.668662,41.939696,0 -87.687609,41.939459,0 -87.692567,41.939427,0 -87.691486,41.938792,0 -87.690115,41.936675,0 -87.688487,41.936428,0 -87.685493,41.933798,0 -87.683433,41.933396,0 -87.682149,41.931404,0 -87.680805,41.93064,0 -87.679705,41.928464,0 -87.676524,41.927591,0 -87.674938,41.926658,0 -87.674476,41.925068,0 -87.668146,41.925152,0 -87.668662,41.939696,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1932</name>
+	<description>name: 1932&lt;br&gt;district: 19&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.648761,41.925454,0 -87.668662,41.939696,0 -87.668146,41.925152,0 -87.648761,41.925454,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1933</name>
+	<description>name: 1933&lt;br&gt;district: 19&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.649267,41.939981,0 -87.660718,41.939802,0 -87.668662,41.939696,0 -87.65871,41.932556,0 -87.649012,41.93272,0 -87.649267,41.939981,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1934</name>
+	<description>name: 1934&lt;br&gt;district: 19&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.638118,41.940553,0 -87.639838,41.940114,0 -87.649267,41.939981,0 -87.649012,41.93272,0 -87.633998,41.933015,0 -87.6316,41.932579,0 -87.630731,41.933063,0 -87.630762,41.932568,0 -87.630664,41.932534,0 -87.630443,41.933666,0 -87.63192,41.935482,0 -87.633629,41.939014,0 -87.634054,41.941519,0 -87.634602,41.941537,0 -87.634988,41.940149,0 -87.6358,41.939611,0 -87.638118,41.940553,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1935</name>
+	<description>name: 1935&lt;br&gt;district: 19&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.631065,41.932588,0 -87.638743,41.932922,0 -87.65871,41.932556,0 -87.648761,41.925454,0 -87.634178,41.925704,0 -87.629599,41.926521,0 -87.631078,41.92908,0 -87.631065,41.932588,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2011</name>
+	<description>name: 2011&lt;br&gt;district: 20&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.689673,41.9905,0 -87.709093,41.990385,0 -87.704725,41.975774,0 -87.689151,41.975892,0 -87.689673,41.9905,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2012</name>
+	<description>name: 2012&lt;br&gt;district: 20&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.670024,41.990798,0 -87.689673,41.9905,0 -87.689151,41.975892,0 -87.668417,41.976191,0 -87.668445,41.981817,0 -87.670024,41.990798,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2013</name>
+	<description>name: 2013&lt;br&gt;district: 20&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.660294,41.990916,0 -87.670024,41.990798,0 -87.668445,41.981817,0 -87.668417,41.976191,0 -87.659866,41.976323,0 -87.660294,41.990916,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2022</name>
+	<description>name: 2022&lt;br&gt;district: 20&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.654305,41.990117,0 -87.660266,41.990002,0 -87.660069,41.983622,0 -87.650487,41.984001,0 -87.649352,41.986393,0 -87.649894,41.985422,0 -87.651056,41.985764,0 -87.654308,41.988406,0 -87.654305,41.990117,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2023</name>
+	<description>name: 2023&lt;br&gt;district: 20&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.650487,41.984001,0 -87.660069,41.983622,0 -87.659866,41.976323,0 -87.651083,41.976476,0 -87.646836,41.977571,0 -87.648604,41.97784,0 -87.650475,41.979457,0 -87.650487,41.984001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2024</name>
+	<description>name: 2024&lt;br&gt;district: 20&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.646115,41.97781,0 -87.651083,41.976476,0 -87.657816,41.976353,0 -87.657625,41.969052,0 -87.649844,41.969158,0 -87.644306,41.969907,0 -87.646143,41.972855,0 -87.646662,41.977443,0 -87.646115,41.97781,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2031</name>
+	<description>name: 2031&lt;br&gt;district: 20&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.68429,41.975961,0 -87.689389,41.975889,0 -87.704725,41.975767,0 -87.703532,41.971863,0 -87.701076,41.968515,0 -87.690374,41.9686,0 -87.684041,41.968685,0 -87.68429,41.975961,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2032</name>
+	<description>name: 2032&lt;br&gt;district: 20&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.668417,41.976191,0 -87.68429,41.975961,0 -87.684041,41.968685,0 -87.667497,41.9689,0 -87.668417,41.976191,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2033</name>
+	<description>name: 2033&lt;br&gt;district: 20&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.657816,41.976353,0 -87.668417,41.976191,0 -87.667497,41.9689,0 -87.657625,41.969052,0 -87.657816,41.976353,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2211</name>
+	<description>name: 2211&lt;br&gt;district: 22&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.681842,41.713662,0 -87.691729,41.713566,0 -87.691519,41.707203,0 -87.701375,41.707052,0 -87.701325,41.706178,0 -87.711124,41.706074,0 -87.711298,41.711491,0 -87.712555,41.711485,0 -87.712578,41.713297,0 -87.721125,41.71317,0 -87.720317,41.691285,0 -87.739739,41.69086,0 -87.73945,41.683632,0 -87.711454,41.684094,0 -87.711452,41.68044,0 -87.705285,41.680579,0 -87.705417,41.684187,0 -87.700553,41.684263,0 -87.700624,41.686136,0 -87.699398,41.686147,0 -87.699473,41.687933,0 -87.695762,41.687992,0 -87.69615,41.698941,0 -87.681388,41.699079,0 -87.681842,41.713662,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2212</name>
+	<description>name: 2212&lt;br&gt;district: 22&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.656019,41.706785,0 -87.68162,41.706376,0 -87.681388,41.699079,0 -87.691231,41.698986,0 -87.691002,41.692284,0 -87.692105,41.692202,0 -87.692089,41.691743,0 -87.695897,41.691693,0 -87.695625,41.684333,0 -87.685812,41.684475,0 -87.68566,41.67929,0 -87.68631,41.677205,0 -87.671878,41.677342,0 -87.664167,41.690894,0 -87.659322,41.697844,0 -87.656019,41.706785,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2213</name>
+	<description>name: 2213&lt;br&gt;district: 22&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.650636,41.721369,0 -87.682065,41.720937,0 -87.68162,41.706376,0 -87.656019,41.706785,0 -87.650636,41.721369,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2221</name>
+	<description>name: 2221&lt;br&gt;district: 22&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.660635,41.735827,0 -87.682514,41.735527,0 -87.682065,41.720937,0 -87.66025,41.721244,0 -87.660635,41.735827,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2222</name>
+	<description>name: 2222&lt;br&gt;district: 22&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.645172,41.736052,0 -87.660635,41.735827,0 -87.66025,41.721244,0 -87.650636,41.721369,0 -87.645172,41.736052,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2223</name>
+	<description>name: 2223&lt;br&gt;district: 22&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.633775,41.735947,0 -87.645172,41.736052,0 -87.65332,41.714084,0 -87.652027,41.714121,0 -87.65123,41.713408,0 -87.648025,41.71445,0 -87.633336,41.714645,0 -87.633775,41.735947,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2232</name>
+	<description>name: 2232&lt;br&gt;district: 22&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.633336,41.714645,0 -87.648025,41.71445,0 -87.65123,41.713408,0 -87.652027,41.714121,0 -87.65332,41.714084,0 -87.658742,41.699444,0 -87.645037,41.699619,0 -87.645209,41.705075,0 -87.633087,41.705217,0 -87.633336,41.714645,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2233</name>
+	<description>name: 2233&lt;br&gt;district: 22&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.633087,41.705217,0 -87.645209,41.705075,0 -87.645037,41.699619,0 -87.646255,41.699605,0 -87.646227,41.698691,0 -87.645004,41.698191,0 -87.644695,41.688691,0 -87.642266,41.68872,0 -87.642152,41.685082,0 -87.632481,41.685204,0 -87.633087,41.705217,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2234</name>
+	<description>name: 2234&lt;br&gt;district: 22&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.646255,41.699605,0 -87.658742,41.699444,0 -87.659322,41.697844,0 -87.664167,41.690894,0 -87.671878,41.677342,0 -87.661365,41.677544,0 -87.661599,41.68482,0 -87.642152,41.685082,0 -87.642266,41.68872,0 -87.644695,41.688691,0 -87.645004,41.698191,0 -87.646227,41.698691,0 -87.646255,41.699605,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2411</name>
+	<description>name: 2411&lt;br&gt;district: 24&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.684653,42.019485,0 -87.708662,42.019144,0 -87.709346,42.004658,0 -87.680171,42.005206,0 -87.684108,42.015226,0 -87.684653,42.019485,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2412</name>
+	<description>name: 2412&lt;br&gt;district: 24&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.680171,42.005206,0 -87.709346,42.004658,0 -87.709344,41.997389,0 -87.676837,41.997959,0 -87.680171,42.005206,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2413</name>
+	<description>name: 2413&lt;br&gt;district: 24&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.676837,41.997959,0 -87.680524,41.997888,0 -87.710671,41.997366,0 -87.709093,41.990385,0 -87.675261,41.990753,0 -87.675438,41.994952,0 -87.676837,41.997959,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2422</name>
+	<description>name: 2422&lt;br&gt;district: 24&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.665138,42.022925,0 -87.677221,42.023031,0 -87.673184,42.019386,0 -87.676307,42.019403,0 -87.675185,42.015901,0 -87.662652,42.016138,0 -87.663282,42.018434,0 -87.66398,42.019076,0 -87.663638,42.019373,0 -87.664009,42.021332,0 -87.664645,42.02161,0 -87.665138,42.022925,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2423</name>
+	<description>name: 2423&lt;br&gt;district: 24&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.662554,42.016045,0 -87.675185,42.015901,0 -87.673963,42.008994,0 -87.658296,42.009222,0 -87.661014,42.012026,0 -87.662554,42.016045,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2424</name>
+	<description>name: 2424&lt;br&gt;district: 24&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.676307,42.019403,0 -87.684653,42.019485,0 -87.684169,42.01546,0 -87.680171,42.005206,0 -87.673099,42.005332,0 -87.67539,42.017024,0 -87.676307,42.019403,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2431</name>
+	<description>name: 2431&lt;br&gt;district: 24&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.658296,42.009222,0 -87.672093,42.009014,0 -87.673963,42.008994,0 -87.673099,42.005332,0 -87.657417,42.005591,0 -87.657394,42.006279,0 -87.655348,42.006689,0 -87.658296,42.009222,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2432</name>
+	<description>name: 2432&lt;br&gt;district: 24&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.657417,42.005591,0 -87.675693,42.005298,0 -87.680171,42.005206,0 -87.676837,41.997959,0 -87.654567,41.998188,0 -87.656897,42.0026,0 -87.657287,42.004212,0 -87.656823,42.00425,0 -87.657417,42.005591,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2433</name>
+	<description>name: 2433&lt;br&gt;district: 24&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.654528,41.998113,0 -87.670858,41.998073,0 -87.676837,41.997959,0 -87.675438,41.994952,0 -87.675261,41.990753,0 -87.660294,41.990916,0 -87.660266,41.990002,0 -87.654305,41.990117,0 -87.654528,41.998113,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2511</name>
+	<description>name: 2511&lt;br&gt;district: 25&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.776215,41.938448,0 -87.816519,41.937939,0 -87.81639,41.934313,0 -87.806624,41.934511,0 -87.806283,41.930792,0 -87.775966,41.931139,0 -87.776215,41.938448,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2512</name>
+	<description>name: 2512&lt;br&gt;district: 25&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.775966,41.931139,0 -87.806495,41.930815,0 -87.806005,41.916189,0 -87.775469,41.916546,0 -87.775966,41.931139,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2513</name>
+	<description>name: 2513&lt;br&gt;district: 25&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.775469,41.916546,0 -87.806005,41.916189,0 -87.805745,41.908839,0 -87.775599,41.909254,0 -87.775245,41.909806,0 -87.775469,41.916546,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2514</name>
+	<description>name: 2514&lt;br&gt;district: 25&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.75669,41.9387,0 -87.776215,41.938448,0 -87.775841,41.927484,0 -87.756282,41.927778,0 -87.75669,41.9387,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2515</name>
+	<description>name: 2515&lt;br&gt;district: 25&lt;br&gt;sector: 1&lt;br&gt;beat: 1&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.756282,41.927778,0 -87.775841,41.927484,0 -87.775409,41.914733,0 -87.755868,41.915041,0 -87.756282,41.927778,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2521</name>
+	<description>name: 2521&lt;br&gt;district: 25&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.739498,41.938928,0 -87.75669,41.9387,0 -87.756146,41.924107,0 -87.738996,41.924336,0 -87.739498,41.938928,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2522</name>
+	<description>name: 2522&lt;br&gt;district: 25&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.731667,41.924426,0 -87.756146,41.924107,0 -87.755938,41.916934,0 -87.731446,41.917104,0 -87.731667,41.924426,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2523</name>
+	<description>name: 2523&lt;br&gt;district: 25&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.717399,41.939216,0 -87.739498,41.938928,0 -87.739249,41.93163,0 -87.717195,41.931911,0 -87.717399,41.939216,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2524</name>
+	<description>name: 2524&lt;br&gt;district: 25&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.717195,41.931911,0 -87.739249,41.93163,0 -87.738996,41.924336,0 -87.716994,41.924603,0 -87.717195,41.931911,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2525</name>
+	<description>name: 2525&lt;br&gt;district: 25&lt;br&gt;sector: 2&lt;br&gt;beat: 2&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.716994,41.924603,0 -87.731667,41.924426,0 -87.731446,41.917104,0 -87.716772,41.917283,0 -87.716994,41.924603,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2531</name>
+	<description>name: 2531&lt;br&gt;district: 25&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b30000ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.76569,41.914993,0 -87.775409,41.914733,0 -87.775362,41.901998,0 -87.765654,41.902145,0 -87.76569,41.914993,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2532</name>
+	<description>name: 2532&lt;br&gt;district: 25&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.755868,41.915041,0 -87.76569,41.914993,0 -87.765654,41.902145,0 -87.755774,41.902249,0 -87.755868,41.915041,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2533</name>
+	<description>name: 2533&lt;br&gt;district: 25&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300e5ff</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.736328,41.917045,0 -87.755938,41.916934,0 -87.755774,41.902249,0 -87.736146,41.902513,0 -87.736328,41.917045,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2534</name>
+	<description>name: 2534&lt;br&gt;district: 25&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b3ff0000</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.726559,41.917166,0 -87.736328,41.917045,0 -87.736146,41.902513,0 -87.726303,41.902671,0 -87.726559,41.917166,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2535</name>
+	<description>name: 2535&lt;br&gt;district: 25&lt;br&gt;sector: 3&lt;br&gt;beat: 3&lt;br&gt;Raid Group: </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>b300c800</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.716772,41.917283,0 -87.726559,41.917166,0 -87.726303,41.902671,0 -87.716562,41.902754,0 -87.716772,41.917283,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
