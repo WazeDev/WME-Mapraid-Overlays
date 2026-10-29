@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             WME Mapraid Overlays
 // @namespace        https://greasyfork.org/en/users/166843-wazedev
-// @version          2026.10.26.01
+// @version          2026.10.29.01
 // @description      Mapraid overlays
 // @author           JustinS83
 // @include          https://www.waze.com/editor*
@@ -14,7 +14,7 @@
 // @connect          api.github.com
 // @connect          raw.githubusercontent.com
 // @require          https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js
-// @require          https://update.greasyfork.org/scripts/524747/1841293/GeoKMLer.js
+// @require          https://greasyfork.org/scripts/524747-geokmler/code/GeoKMLer.js
 // @contributionURL  https://github.com/WazeDev/Thank-The-Authors
 // ==/UserScript==
 
@@ -45,13 +45,13 @@
     else
         console.error('WME Mapraid Overlays: SDK_INITIALIZED is undefined');
 
-    function bootstrap() {
-        sdk = unsafeWindow.getWmeSdk({ scriptId: 'wme-mapraid-overlays', scriptName: 'WME Mapraid Overlays' });
+    async function bootstrap() {
+        sdk = unsafeWindow.getWmeSdk({ scriptId: 'wme-mapraid-overlays', scriptName: 'WME Mapraid Overlays', mode: 'async' });
 
-        if (sdk.State.isReady())
-            init();
+        if (await sdk.State.isReady())
+            await init();
         else
-            sdk.Events.once({ eventName: 'wme-ready' }).then(init);
+            sdk.Events.once({ eventName: 'wme-ready' }).then(init).catch(function(err){ console.error('WME Mapraid Overlays: init failed', err); });
     }
 
     function isChecked(checkboxId) {
@@ -110,84 +110,20 @@
         });
     }
 
-    //KML colors are aabbggrr - convert to #rrggbb & opacity
-    function kmlColorToHex(kmlColor){
-        let c = kmlColor.trim();
-        let a = parseInt(c.substr(0, 2), 16) / 255;
-        let b = c.substr(2, 2);
-        let g = c.substr(4, 2);
-        let r = c.substr(6, 2);
-        return { color: `#${r}${g}${b}`, opacity: a };
-    }
-
-    //Reads the inline <Style> from a Placemark since GeoKMLer does not pass styles through
-    function getPlacemarkStyle(placemark){
-        let style = {
-            fillColor: '#000000',
-            fillOpacity: 0.3,
-            strokeColor: '#000000',
-            strokeOpacity: 0.4,
-            strokeWidth: 5
-        };
-
-        let polyStyle = placemark.getElementsByTagName('PolyStyle')[0];
-        if(polyStyle){
-            let color = polyStyle.getElementsByTagName('color')[0];
-            if(color){
-                let c = kmlColorToHex(color.textContent);
-                style.fillColor = c.color;
-                style.fillOpacity = c.opacity;
-            }
-        }
-
-        let lineStyle = placemark.getElementsByTagName('LineStyle')[0];
-        if(lineStyle){
-            let color = lineStyle.getElementsByTagName('color')[0];
-            if(color){
-                let c = kmlColorToHex(color.textContent);
-                style.strokeColor = c.color;
-                style.strokeOpacity = c.opacity;
-            }
-            let width = lineStyle.getElementsByTagName('width')[0];
-            if(width)
-                style.strokeWidth = parseFloat(width.textContent);
-        }
-
-        return style;
-    }
-
-    //Drops the elevation value so all coordinates are [lon, lat]
-    function stripElevation(coordinates) {
-        if (Array.isArray(coordinates[0]))
-            return coordinates.map((coord) => stripElevation(coord));
-        return coordinates.slice(0, 2);
-    }
+    //Used for any feature whose Placemark has no Style GeoKMLer can read
+    const DEFAULT_STYLE = { fillColor: '#000000', fillOpacity: 0.3, strokeColor: '#000000', strokeOpacity: 0.4, strokeWidth: 5 };
 
     function GetFeaturesFromKMLString(strKML) {
         let geoKMLer = new GeoKMLer();
-        let kmlDoc = geoKMLer.read(strKML);
-        let placemarks = kmlDoc.getElementsByTagName('Placemark');
-        let features = [];
-
-        //convert one placemark at a time so each feature gets its own placemark's style
-        for(let i = 0; i < placemarks.length; i++){
-            let style = getPlacemarkStyle(placemarks[i]);
-            let pmFeatures = geoKMLer.handlePlacemark(placemarks[i]);
-            for(let j = 0; j < pmFeatures.length; j++){
-                let f = pmFeatures[j];
-                f.properties = $.extend({}, f.properties, style);
-                delete f.properties.Style; //GeoKMLer copies the inline Style text in as a property
-                f.geometry.coordinates = stripElevation(f.geometry.coordinates);
-                features.push(f);
-            }
-        }
-        return features;
+        //dropElevation=true gives [lon, lat] positions; 'openlayers' writes strokeColor, fillColor, etc. onto each feature
+        let geoJson = geoKMLer.toGeoJSON(geoKMLer.read(strKML), false, true, 'openlayers', false, false);
+        return geoJson.features.map((f) => { f.properties = $.extend({}, DEFAULT_STYLE, f.properties); return f; });
     }
 
     async function init(){
         loadSettings();
 
-        sdk.Map.addLayer({
+        await sdk.Map.addLayer({
             layerName: layerid,
             styleRules: [
                 {
@@ -225,42 +161,86 @@
             zIndexing: true
         });
 
-        sdk.Map.setLayerVisibility({ layerName: layerid, visibility: _settings.layerVisible });
-        sdk.LayerSwitcher.addLayerCheckbox({ name: _layerName });
-        sdk.LayerSwitcher.setLayerCheckboxChecked({ name: _layerName, isChecked: _settings.layerVisible });
+        await sdk.Map.setLayerVisibility({ layerName: layerid, visibility: _settings.layerVisible });
+        await sdk.LayerSwitcher.addLayerCheckbox({ name: _layerName });
+        await sdk.LayerSwitcher.setLayerCheckboxChecked({ name: _layerName, isChecked: _settings.layerVisible });
         sdk.Events.on({
             eventName: 'wme-layer-checkbox-toggled',
-            eventHandler: function(args){
+            eventHandler: async function(args){
                 if(args.name !== _layerName)
                     return;
                 _settings.layerVisible = args.checked;
-                sdk.Map.setLayerVisibility({ layerName: layerid, visibility: args.checked });
+                await sdk.Map.setLayerVisibility({ layerName: layerid, visibility: args.checked });
                 saveSettings();
             }
         });
 
-        var $section = $("<div>", {style:"padding:8px 16px", id:"WMEMapraidOverlays"});
-        $section.html([
-            `<h4 style="margin-bottom:0px;"><b>WME Mapraid Overlays</b></h4>`,
-            `<h6 style="margin-top:0px;">${GM_info.script.version}</h6>`,
-            `<div><input type="checkbox" id="_cbMROHideCurrentArea" class="wmemroSettingsCheckbox" /><label for="_cbMROHideCurrentArea">Hide fill for current area</label></div>`,
-            `<div id="divWMEMROAvailableOverlays"><label>Available overlays</label> <select id="mroOverlaySelect" style="min-width:125px;"></select><i class="fa fa-plus fa-lg" id="mroAddOverlay" aria-hidden="true" style="color:green; cursor:pointer;"></i></div>`,
+        injectStyles();
+        let panelHTML = [
+            '<div class="mro-header"><span class="mro-title">Mapraid Overlays</span><span class="mro-version">v' + GM_info.script.version + '</span></div>',
+            '<div class="mro-card">',
+            '  <div class="mro-card-title">Display</div>',
+            '  <div class="mro-row"><span class="mro-label">Hide fill for current area</span>' + mroToggle('_cbMROHideCurrentArea', false, 'wmemroSettingsCheckbox') + '</div>',
+            '</div>',
+            '<div class="mro-card" id="divWMEMROAvailableOverlays">',
+            '  <div class="mro-card-title">Overlays</div>',
+            '  <div class="mro-row"><span class="mro-label">Available</span><select id="mroOverlaySelect" class="mro-select"></select><button type="button" class="mro-icon-btn mro-add" id="mroAddOverlay" title="Add overlay"><i class="fa fa-plus" aria-hidden="true"></i></button></div>',
+            '</div>',
             '<div id="currOverlays"></div>',
-            '<div style="position:absolute; bottom:0;">Generate new mapraid overlays at <a href="http://wazedev.com/mapraidgenerator.html" target="_blank">http://wazedev.com/mapraidgenerator.html</a></div>',
-            '</div>'
-        ].join(' '));
+            '<div class="mro-footer">Generate new mapraid overlays at <a href="http://wazedev.com/mapraidgenerator.html" target="_blank">wazedev.com/mapraidgenerator.html</a></div>',
+        ].join('');
 
-        sdk.Sidebar.registerScriptTab().then(({ tabLabel, tabPane }) => {
+        sdk.Sidebar.registerScriptTab().then(async ({ tabLabel, tabPane }) => {
             tabLabel.innerText = 'MRO';
             tabLabel.title = 'WME Mapraid Overlays';
-            tabPane.innerHTML = $section.html();
-            init2();
-        });
+            tabPane.classList.add('wme-mapraid-panel');
+            tabPane.innerHTML = panelHTML;
+            await init2();
+        }).catch(err => console.error('WME Mapraid Overlays: sidebar setup failed', err));
+    }
+
+    //Scoped styles for the sidebar panel - mirrors the card/toggle look used by WME Cities Overlay
+    function injectStyles(){
+        if(document.getElementById('wme-mapraid-styles'))
+            return;
+        let style = document.createElement('style');
+        style.id = 'wme-mapraid-styles';
+        style.textContent = `
+.wme-mapraid-panel { font-family: inherit; font-size: 12px; line-height: 1.4; color: var(--content_default); padding: 4px 12px 8px; box-sizing: border-box; }
+.wme-mapraid-panel .mro-header { background: linear-gradient(135deg, #0066cc, #0052a3); padding: 8px 10px; border-radius: 8px; margin-bottom: 8px; display: flex; align-items: center; justify-content: space-between; color: white; }
+.wme-mapraid-panel .mro-title { font-size: 13px; font-weight: 700; letter-spacing: 0.3px; }
+.wme-mapraid-panel .mro-version { font-size: 10px; opacity: 0.8; }
+.wme-mapraid-panel .mro-card { background: var(--background_default); border: 1px solid var(--hairline); border-radius: 8px; padding: 8px 10px; margin-bottom: 8px; }
+.wme-mapraid-panel .mro-card-title { display: flex; align-items: center; justify-content: space-between; gap: 6px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: var(--primary); margin-bottom: 8px; padding-bottom: 4px; border-bottom: 1px solid var(--hairline); }
+.wme-mapraid-panel .mro-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.wme-mapraid-panel .mro-row:last-child { margin-bottom: 0; }
+.wme-mapraid-panel .mro-label { font-size: 11px; font-weight: 500; color: var(--content_p1); flex: 1; }
+.wme-mapraid-panel .mro-toggle { position: relative; display: inline-block; width: 32px; height: 16px; cursor: pointer; flex-shrink: 0; }
+.wme-mapraid-panel .mro-toggle input { opacity: 0; width: 0; height: 0; position: absolute; }
+.wme-mapraid-panel .mro-toggle-slider { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: var(--hairline); border-radius: 8px; transition: background 0.25s; }
+.wme-mapraid-panel .mro-toggle-slider::before { position: absolute; content: ''; height: 12px; width: 12px; left: 2px; bottom: 2px; background: white; border-radius: 50%; transition: transform 0.25s; box-shadow: 0 1px 2px rgba(0,0,0,0.3); }
+.wme-mapraid-panel .mro-toggle input:checked + .mro-toggle-slider { background: var(--primary, #4a90e2); }
+.wme-mapraid-panel .mro-toggle input:checked + .mro-toggle-slider::before { transform: translateX(16px); }
+.wme-mapraid-panel .mro-select { flex: 1; min-width: 0; padding: 2px 5px; border: 1px solid var(--hairline); border-radius: 4px; font-size: 11px; background: var(--surface_default); color: var(--content_default); }
+.wme-mapraid-panel .mro-icon-btn { width: 22px; height: 22px; padding: 0; border: 1px solid var(--hairline); border-radius: 4px; background: var(--background_default); color: var(--content_p1); cursor: pointer; flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; transition: all 0.15s; }
+.wme-mapraid-panel .mro-icon-btn:hover { background: var(--primary, #4a90e2); color: white; border-color: var(--primary, #4a90e2); }
+.wme-mapraid-panel .mro-icon-btn.mro-add { color: #00bd00; }
+.wme-mapraid-panel .mro-icon-btn.mro-remove { color: #e53935; }
+.wme-mapraid-panel .mro-icon-btn.mro-remove:hover { background: #e53935; border-color: #e53935; color: white; }
+.wme-mapraid-panel .mro-footer { font-size: 10px; color: var(--content_p2); margin-top: 8px; }
+.wme-mapraid-panel .mro-footer a { color: var(--primary, #4a90e2); }
+        `;
+        document.head.appendChild(style);
+    }
+
+    //Builds a toggle switch (checkbox + slider) - the checkbox keeps its id/class so existing handlers still work
+    function mroToggle(id, checked, cls){
+        return `<label class="mro-toggle"><input type="checkbox" id="${id}" class="${cls || ''}"${checked ? ' checked' : ''} /><span class="mro-toggle-slider"></span></label>`;
     }
 
     async function getAvailableOverlays(){
         $('#mroOverlaySelect').innerHTML = "";
-        let topCountry = sdk.DataModel.Countries.getTopCountry();
+        let topCountry = await sdk.DataModel.Countries.getTopCountry();
         if(!topCountry)
             return;
         countryAbbr = topCountry.abbr;
@@ -279,7 +259,7 @@
         $('#mroOverlaySelect')[0].innerHTML = overlaysSelect.html();
     }
 
-    function updatePolygons(newKML, mapraidName){
+    async function updatePolygons(newKML, mapraidName){
         var _newFeatures = GetFeaturesFromKMLString(newKML);
         let idPrefix = mapraidName.replace(/\s/g, "_");
 
@@ -290,7 +270,7 @@
         }
 
         _features = _features.concat(_newFeatures);
-        sdk.Map.addFeaturesToLayer({ layerName: layerid, features: _newFeatures });
+        await sdk.Map.addFeaturesToLayer({ layerName: layerid, features: _newFeatures });
     }
 
     function hex_is_light(color) {
@@ -314,12 +294,13 @@
         let kmlObj = $($.parseXML(kml));
         let RaidAreas = $(kmlObj).find('Placemark');
 
+        let safeId = mapraidName.replace(/\s/g, "_");
         let $newRaidSection = $('<div>');
         $newRaidSection.html([
-            `<fieldset style="border:1px solid silver; padding:8px; border-radius:4px; position:relative;"><legend style="margin-bottom:0px; borer-bottom-style:none; width:auto;"><h4>${mapraidName}</h4></legend>`,
-            `<i class="fa fa-minus fa-lg" id="mroRemoveOverlay${mapraidName.replace(/\s/g, "_")}" aria-hidden="true" style="color:red; position:absolute; cursor:pointer; top:10px; right:5px;"></i>`,
-            `<div><input type="checkbox" id="_cbMROFillRaidArea${mapraidName.replace(/\s/g, "_")}" ${_settings.EnabledOverlays[mapraidName].fillAreas ? 'checked' : ''} /><label for="_cbMROFillRaidArea${mapraidName.replace(/\s/g, "_")}">Fill raid area</label></div>`,
-            `Jump to <select id="${mapraidName.replace(/\s/g, "_")}_Areas">${
+            `<div class="mro-card mro-raid">`,
+            `  <div class="mro-card-title"><span>${mapraidName}</span><button type="button" class="mro-icon-btn mro-remove" id="mroRemoveOverlay${safeId}" title="Remove overlay"><i class="fa fa-minus" aria-hidden="true"></i></button></div>`,
+            `  <div class="mro-row"><span class="mro-label">Fill raid area</span>${mroToggle(`_cbMROFillRaidArea${safeId}`, _settings.EnabledOverlays[mapraidName].fillAreas)}</div>`,
+            `  <div class="mro-row"><span class="mro-label">Jump to</span><select id="${safeId}_Areas" class="mro-select">${
             function(){
                 let names = $(RaidAreas).find('name');
                 let options = "";
@@ -327,18 +308,17 @@
                     options += `<option>${$(names[i]).text()}</option>`;
                 return options;
             }()
-            }</select>`,
-            `<i class="fa fa-share" aria-hidden="true" style="color:green; cursor:pointer;" id="JumpTo${mapraidName.replace(/\s/g, "_")}"></i>`,
-            '</fieldset>'
-        ].join(''));
+            }</select><button type="button" class="mro-icon-btn" id="JumpTo${safeId}" title="Jump to area"><i class="fa fa-share" aria-hidden="true"></i></button></div>`,
+            `</div>`
+        ].join('\n'));
 
         $(`#mroOverlaySelect option[value="${mapraidName}"]`).remove(); //remove this option from the list
         $('#currOverlays').append($newRaidSection.html()); //add the mapraid section
 
-        updatePolygons(kml, mapraidName);
+        await updatePolygons(kml, mapraidName);
     }
 
-    function HandleMoveZoom(){
+    async function HandleMoveZoom(){
         //display the current MR area in the title bar
         //hide the current MR area fill (if setting is enabled)
 
@@ -353,7 +333,7 @@
             $('.topbar').append($section.html());
         }
 
-        let mapCenter = sdk.Map.getMapCenter();
+        let mapCenter = await sdk.Map.getMapCenter();
         let center = turf.point([mapCenter.lon, mapCenter.lat]);
         $('#mroCurrAreaTopbar').text("");
         _currAreaIds = [];
@@ -371,25 +351,24 @@
                 _currAreaIds.push(feature.id); //fill is hidden in the styleContext when HideCurrentArea is on
             }
         }
-        sdk.Map.redrawLayer({ layerName: layerid });
+        await sdk.Map.redrawLayer({ layerName: layerid });
     }
 
-    function init2(){
-        getAvailableOverlays();
+    async function init2(){
+        await getAvailableOverlays();
 
-        $.each(_settings.EnabledOverlays, function(k, v){
+        for(const k of Object.keys(_settings.EnabledOverlays)){
             if(!_mapraidNameMap[k.replace(/\s/g, "_")])
                 _mapraidNameMap[k.replace(/\s/g, "_")] = k;
-            BuildEnabledOverlays(k);
-
-        });
+            await BuildEnabledOverlays(k);
+        }
 
         $('#mroAddOverlay').click(async function(){
             if($('#mroOverlaySelect').val() !== null){
                 let raid = $('#mroOverlaySelect').val();
                 _settings.EnabledOverlays[raid] = {fillAreas: true};
 
-                BuildEnabledOverlays(raid);
+                await BuildEnabledOverlays(raid);
                 if(!_mapraidNameMap[raid.replace(/\s/g, "_")])
                     _mapraidNameMap[raid.replace(/\s/g, "_")] = raid;
 
@@ -398,17 +377,17 @@
         });
 
         //delegated handlers for the per-raid controls - bound once here so they don't stack as overlays are added
-        $('#currOverlays').on('change', '[id^="_cbMROFillRaidArea"]', function(){
+        $('#currOverlays').on('change', '[id^="_cbMROFillRaidArea"]', async function(){
             let mapraid = this.id.replace("_cbMROFillRaidArea", "");
             _settings.EnabledOverlays[_mapraidNameMap[mapraid]].fillAreas = isChecked(this.id);
             saveSettings();
             //fill opacity is read from _settings in the layer's styleContext - just redraw
-            sdk.Map.redrawLayer({ layerName: layerid });
+            await sdk.Map.redrawLayer({ layerName: layerid });
         });
 
-        $('#currOverlays').on('click', '[id^="mroRemoveOverlay"]', function(){
+        $('#currOverlays').on('click', '[id^="mroRemoveOverlay"]', async function(){
             let mapraid = this.id.replace("mroRemoveOverlay", "");
-            $(this).parent().remove();
+            $(this).closest('.mro-raid').remove();
 
             delete _settings.EnabledOverlays[_mapraidNameMap[mapraid]];
             saveSettings();
@@ -422,11 +401,11 @@
                     keepFeatures.push(_features[i]);
             }
             _features = keepFeatures;
-            sdk.Map.removeFeaturesFromLayer({ layerName: layerid, featureIds: deleteFeatureIds });
-            getAvailableOverlays();
+            await sdk.Map.removeFeaturesFromLayer({ layerName: layerid, featureIds: deleteFeatureIds });
+            await getAvailableOverlays();
         });
 
-        $('#currOverlays').on('click', '[id^="JumpTo"]', function(){
+        $('#currOverlays').on('click', '[id^="JumpTo"]', async function(){
             //jump to the appropriate area - look up the area in the layer features and jump to the centroid.
             let raidArea = this.id.replace("JumpTo", "");
             for(let i=0; i<_features.length; i++){
@@ -434,7 +413,8 @@
                     let selectedArea = $(`#${raidArea.replace(/\s/g, "_")}_Areas`).val();
                     if(_features[i].properties.name === selectedArea){
                         let centroid = turf.centerOfMass(_features[i]).geometry.coordinates;
-                        sdk.Map.setMapCenter({ lonLat: { lon: centroid[0], lat: centroid[1] }, zoomLevel: sdk.Map.getZoomLevel() });
+                        let zoomLevel = await sdk.Map.getZoomLevel();
+                        await sdk.Map.setMapCenter({ lonLat: { lon: centroid[0], lat: centroid[1] }, zoomLevel });
                         break;
                     }
                 }
@@ -447,15 +427,15 @@
             saveSettings();
         });
 
-        $('#_cbMROHideCurrentArea').change(function(){
-            HandleMoveZoom();
+        $('#_cbMROHideCurrentArea').change(async function(){
+            await HandleMoveZoom();
         });
 
-        sdk.Events.on({ eventName: 'wme-map-zoom-changed', eventHandler: HandleMoveZoom });
-        sdk.Events.on({ eventName: 'wme-map-move-end', eventHandler: HandleMoveZoom });
+        sdk.Events.on({ eventName: 'wme-map-zoom-changed', eventHandler: () => HandleMoveZoom().catch(err => console.error('WME Mapraid Overlays: HandleMoveZoom failed', err)) });
+        sdk.Events.on({ eventName: 'wme-map-move-end', eventHandler: () => HandleMoveZoom().catch(err => console.error('WME Mapraid Overlays: HandleMoveZoom failed', err)) });
 
         setChecked('_cbMROHideCurrentArea', _settings.HideCurrentArea);
-        HandleMoveZoom();
+        await HandleMoveZoom();
     }
 
 })();
